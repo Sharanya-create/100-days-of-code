@@ -8,7 +8,7 @@
 
 **Thoughts:** I had this notion that we can't build a COVID 19 tracker without React.js but i found out that a simple animation less tracker can be built using python and html as well.
 
-**Link to work:** 
+**Link to work:** would upload after building the application entirely..check for link in day 2 or 3
 
 ### Day 2: 
 
