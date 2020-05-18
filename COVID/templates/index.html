@@ -1,0 +1,84 @@
+<html>
+<head>
+  <title>Covid tracker</title>
+  <style>
+    #main{
+      position: relative;
+      text-align: center;
+      top:10px;
+    }
+    progress::-webkit-progress-bar{
+      border-radius:35px;
+      background-color:#e4e8ed;
+    }
+    progress::-webkit-progress-value{
+      border-radius:25px;
+      background:#288ef3;
+    }
+    #pr{
+      border-radius:35px;
+      height:7px;
+      width:270px;
+      background-color:#e4e8ed;
+      position: relative;
+      bottom:3px;
+    }
+    #pre{
+      border-radius:35px;
+      height:7px;
+      width:270px;
+      background-color:#e4e8ed;
+      position: relative;
+      bottom:3px;
+    }
+    img{
+      width:90px;
+      height:70px;
+      position:relative;
+      right:470px;
+      border-radius: 50%;
+    }
+
+
+
+
+  </style>
+</head>
+  <body background= "{{ url_for('static', filename='images/back.jpg') }}">
+    <div id="main">
+      <p style="color:white;font-size:40px"><b>COVID-19</b></p>
+      <p style="color:white"> This website is a COVID tracker website using API from <a href="https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest">COVID 19 API-Postman</a> The progress bar limit for global data is 100000 hence the bar gets complete blue if the patients or deaths around world increases to an amount of 100000.  Similarly for country data, limit is 1000, any country with more than 1000 deaths or patients can be witnessed with full blue progress bars</p>
+        <p>
+          <b style="font-size:22px;color:white">Global:</b>
+          {% for item in stuff %}
+            <pre style="color:white"><b>{{ item }}:</b>{{ final[s][item] }}&ensp;<progress id="pr" value="{{ final[s][item] }}" max ="100000"></progress></pre>
+            {% endfor %}
+        </p>
+    </div>
+    <hr></hr>
+          <div id="a">
+           <p style="font-size:22px;color:white"><b>Countries</b></p>
+
+          <p>
+          {% for i in info %}
+          <p style="color:#252625" > {{  dict.update(i) }} </p>
+
+              <details>
+              <summary style="font-size:22px;color:white"><b>{{ dict[c]}}</b></summary>
+                <p style="color:white"><b>Country:</b>{{ dict[c] }}</p>
+                  {% for item in stuff %}
+                  <pre style="color:white"><b>{{ item }}:</b>{{ dict[item] }}&ensp;<progress id = "pre"value="{{ dict[item] }}" max ="1000"></progress></pre>
+                    {% endfor %}
+              </details>
+            {% endfor %}
+          </p>
+        </div>
+    <div style="background-color:#171816;text-align:center;color:white">
+            <a href="https://sharanya-132.s3.us-east-2.amazonaws.com/4sf18cs132.html">About Developer</a>&ensp;  &copy;Sharanya S Bhat, SCEM 4th Sem
+
+    </div>
+
+
+
+  </body>
+</html>
