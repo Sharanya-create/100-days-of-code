@@ -17,7 +17,7 @@
 
 **Thoughts**: It was an amazing time developing this mini-project. I learnt a new concept of jinja used to write python on templates
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/COVID
 
 
 ### Day 3: 
