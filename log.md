@@ -15,16 +15,16 @@
 
 **Today's Progress**: Completed the web application
 
-**Thoughts**: It was an amazing time developing this mini-project. I learnt a new concept of jinja used to write python on templates
+**Thoughts**: It was an amazing time developing this mini-project. I learnt a new concept of jinja, a template engine that allows developers to write python logic on the html templates.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/COVID
 
 
-### Day 3: 
+### Day 3: Bitwise operator challenge-hackerrank date:19-05-2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed the bitwise operator challenge on hackerrank in C programming
 
-**Thoughts**:
+**Thoughts**:This challenge troubled me since 5 days, only 4 out of the 14 testcases were passing, Later I found out that there was problem with array size and not my logic.
 
-**Link(s) to work**:
+**Link(s) to work**:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
 
