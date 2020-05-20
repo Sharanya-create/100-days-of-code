@@ -28,3 +28,10 @@
 
 **Link(s) to work**:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
 
+### Day 4:Began with building a COVID 19 tracker  react application
+
+**Today's Progress**: Downloaded visual studio and began with coding
+
+**Thoughts**: It was my dream to build a react application and know it's details.Hence bringing this dream true.
+
+**Link(s) to work**: would upload after completion
