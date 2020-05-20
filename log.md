@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: Took up the challenge and commited to it on twitter and LinkedIn
-###Date: 16-05-2020
+### Date: 16-05-2020
 ### Day 1:COVID 19 tracker web application date:17-05-2020
 
 **Today's Progress**: Almost done with COVID 19 tracker web application on Flask Framework using jinja, python , html and css
@@ -28,7 +28,7 @@
 
 **Link(s) to work**:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
 
-### Day 4:Began with building a COVID 19 tracker  react application
+### Day 4:Began with building a COVID 19 tracker  react application date:20-05-2020
 
 **Today's Progress**: Downloaded visual studio and began with coding
 
