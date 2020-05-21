@@ -37,6 +37,7 @@
 
 ### Day 5: Completed backend developement(database part) of registration and login forms for beautician website and would go on for more perfection in it date:21-05-2020
 
-**Today's Progress**: completed backend for beautician website (login , logout and registration) would look at more perfection like allowing user to see the password typed on click, asking user to make password secure and fix a length and give to error message if user doesn't exist or password wrong etc as now the site considers the fact and gives appropriate response. Further to work on the message part.
+**Today's Progress**: completed backend for beautician website (login , logout and registration) would look at more perfection like allowing user to see the password typed on click, asking user to make password secure and fix a length and give to error message if user doesn't exist or password wrong etc as now the site considers the fact and gives appropriate response. Further to work on the message part 
+
 **Linkk(s) to work**: would upload after completion of website
 
