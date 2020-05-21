@@ -27,10 +27,16 @@
 
 **Link(s) to work**:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
 
-### Day 4:Began with building a COVID 19 tracker  react application date:20-05-2020
+### Day 4:Began with building a COVID 19 tracker  react application and backend for beautician website date:20-05-2020
 
-**Today's Progress**: Downloaded visual studio and began with coding
+**Today's Progress**: Downloaded visual studio and began with coding. Began with backend for login and registration forms for beautician website. Coded for some 2 hrs.
 
-**Thoughts**: It was my dream to build a react application and know it's details.Hence bringing this dream true.
+**Thoughts**: It was my dream to build a react application and know it's details.Hence bringing this dream true. 
 
 **Link(s) to work**: would upload after completion
+
+### Day 5: Completed backend developement(database part) of registration and login forms for beautician website and would go on for more perfection in it date:21-05-2020
+
+**Today's Progress**: completed backend for beautician website (login , logout and registration) would look at more perfection like allowing user to see the password typed on click, asking user to make password secure and fix a length and give to error message if user doesn't exist or password wrong etc as now the site considers the fact and gives appropriate response. Further to work on the message part.
+**Linkk(s) to work**: would upload after completion of website
+
