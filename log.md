@@ -39,5 +39,19 @@
 
 **Today's Progress**: completed backend for beautician website (login , logout and registration) would look at more perfection like allowing user to see the password typed on click, asking user to make password secure and fix a length and give to error message if user doesn't exist or password wrong etc as now the site considers the fact and gives appropriate response. Further to work on the message part 
 
-**Linkk(s) to work**: would upload after completion of website
+**Thoughts**:This is my first website with backend developed for it. This was actually an assignment from college but didn't receive enough training on backend through mentors due to lockdown and I am very happy to write it here that I am the first to complete it among my fellow mates.
+
+**Link(s) to work**: would upload after completion of website
+
+### Day 6: Coded a java applet to detect key events 
+
+**Today's Progress**: Completed the code for detecting the key pressed and key released event on applet and the applet viewer would display whatever typed.
+
+**Thoughts**:Have a plan of attaching this project to browser as extension so that it would act as a notepad for browser, for me to take notes while I am surfing through browser.
+
+**Link(s) to work**: would upload after completion ie after I attach the applet to browser as extension.
+
+
+
+
 
