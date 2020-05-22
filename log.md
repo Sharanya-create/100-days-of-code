@@ -43,7 +43,7 @@
 
 **Link(s) to work**: would upload after completion of website
 
-### Day 6: Coded a java applet to detect key events and another applet takes the text and writes it to given file.
+### Day 6: Coded a java applet to detect key events and another applet takes the text and writes it to given file date:22-05-2020
 
 **Today's Progress**: Completed the code for detecting the key pressed and key released event on applet and the applet viewer would display whatever typed. The other applet took input of file name and text and wrote the text to that file.
 
