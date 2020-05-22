@@ -43,11 +43,11 @@
 
 **Link(s) to work**: would upload after completion of website
 
-### Day 6: Coded a java applet to detect key events 
+### Day 6: Coded a java applet to detect key events and another applet takes the text and writes it to given file.
 
-**Today's Progress**: Completed the code for detecting the key pressed and key released event on applet and the applet viewer would display whatever typed.
+**Today's Progress**: Completed the code for detecting the key pressed and key released event on applet and the applet viewer would display whatever typed. The other applet took input of file name and text and wrote the text to that file.
 
-**Thoughts**:Have a plan of attaching this project to browser as extension so that it would act as a notepad for browser, for me to take notes while I am surfing through browser.
+**Thoughts**:Have a plan of attaching the second applet project to browser as extension so that it would act as a notepad for browser, for me to take notes while I am surfing through browser.
 
 **Link(s) to work**: would upload after completion ie after I attach the applet to browser as extension.
 
