@@ -11,7 +11,6 @@
 
 ### Day 2:COVID Tracker web application date:18-05-2020 
 
-
 **Today's Progress**: Completed the web application
 
 **Thoughts**: It was an amazing time developing this mini-project. I learnt a new concept of jinja, a template engine that allows developers to write python logic on the html templates.
@@ -41,7 +40,7 @@
 
 **Thoughts**:This is my first website with backend developed for it. This was actually an assignment from college but didn't receive enough training on backend through mentors due to lockdown and I am very happy to write it here that I am the first to complete it among my fellow mates.
 
-**Link(s) to work**: would upload after completion of website
+**Link(s) to work**: (link to backend of login,logout and registration forms and frontend/UI design only) https://github.com/Sharanya-create/100-days-of-code/tree/master/Webpage
 
 ### Day 6: Coded a java applet to detect key events and another applet takes the text and writes it to given file date:22-05-2020
 
