@@ -57,7 +57,7 @@
 
 **Thoughts**: I discarded my plan of adding my applet to my browser as i found that chrome no longer supports Java pluggins and the only way to view applet on browser was adding it to html using Applet tag and viewing using some extensions like CheerpJ, let tab etc. I wanted to keep this project java specific and did not wanted to mix html with it as my favourite combination with html is css, js and offcourse jinja which is python template engine. However adding the applet to chrome would not serve the purpose as i have to switch tabs between my applet page and the current surfing page. 
 
-**Link(s) to work: https://github.com/Sharanya-create/100-days-of-code/tree/master/applets
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/applets
 
 
 
