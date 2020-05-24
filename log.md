@@ -58,6 +58,14 @@
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/applets
 
+### Day 8:Proceeded with backend developement of beautician website for products pace
+
+**Today's Progress**:Was able to code for one and half hour on the product page of haircare products
+
+**Thoughts**: have some bugs troubling will be resolving them in the coming days.
+
+**Link(s) to work**: would upload after I complete all the product pages.
+
 
 
 
