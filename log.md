@@ -74,6 +74,13 @@
 
 **Link(s) to work**: would upload after completion of covid 19 tracker application
 
+### Day 10: Completed sum of sub array challenge on geeks for geeks date: 26-05-2020
+
+**Today's Progress**: got an institution rank of 27 and score 2 as per alloted for the program.
+
+**Thoughts**: my logic worked well for almost all test cases and errors I managed to correct but I felt it almost impossible to get the execution time down. But then finally I managed to do it with a piece of extra code statement and the execution time was 0.58s
+
+**Link(s) to work**: https://auth.geeksforgeeks.org/user/sharanyabhat28/practice/
 
 
 
