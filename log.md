@@ -66,6 +66,14 @@
 
 **Link(s) to work**: would upload after I complete all the product pages.
 
+### Day 9: Completed half of covid 19 tracker application
+
+**Today's Progress**: Coded for 2 hours  on covid 19 tracker and completed half of it.
+
+**Thoughts**: Inspite of my severe headache I managed to code on covid 19 tracker but sadly could not update the repo on day 9 itself and hence updating it on day 10. No headache can decrease my passion for coding.
+
+**Link(s) to work**: would upload after completion of covid 19 tracker application
+
 
 
 
