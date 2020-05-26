@@ -66,7 +66,7 @@
 
 **Link(s) to work**: would upload after I complete all the product pages.
 
-### Day 9: Completed half of covid 19 tracker application
+### Day 9: Completed half of covid 19 tracker application date:25-05-2020
 
 **Today's Progress**: Coded for 2 hours  on covid 19 tracker and completed half of it.
 
