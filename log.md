@@ -66,11 +66,11 @@
 
 **Link(s) to work**: would upload after I complete all the product pages.
 
-### Day 9: Completed half of covid 19 tracker application date:25-05-2020
+### Day 9: Proceeded with  development of covid 19 tracker application and practiced some java programs on interface in academic interest  date:25-05-2020
 
-**Today's Progress**: Coded for 2 hours  on covid 19 tracker and completed half of it.
+**Today's Progress**: Coded for 2 hours, 1 hour on tracker and other on the interface programs. Completed one fourth of the tracker application( till one card up and running)
 
-**Thoughts**: Inspite of my severe headache I managed to code on covid 19 tracker but sadly could not update the repo on day 9 itself and hence updating it on day 10. No headache can decrease my passion for coding.
+**Thoughts**: Inspite of my severe headache I managed to code on covid 19 tracker and Java programs but sadly could not update the repo on day 9 itself and hence updating it on day 10. No headache can decrease my passion for coding.
 
 **Link(s) to work**: would upload after completion of covid 19 tracker application
 
