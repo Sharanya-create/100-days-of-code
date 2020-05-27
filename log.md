@@ -82,6 +82,14 @@
 
 **Link(s) to work**: https://auth.geeksforgeeks.org/user/sharanyabhat28/practice/
 
+### Day 11: Proceeded with covid 19 tracker react application date:27-05-2020
+
+**Today's Progress**: was able to code only for an hour with the internal assisments comming up , but though I have already completed almost of the mini project, only styling and the graph part remains.
+
+**Thoughts**: Visual studio crashed on my laptop and installing it all again would take more of internet and time. Hence I installed node.js separately on my laptop, added the path to environment variable and began with the development on Atom editor. Was able to code and get all the cards up and running with the count animation applied.
+
+**Link(s) to work**: would upload after completion of the application.
+
 
 
 
