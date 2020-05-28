@@ -81,7 +81,7 @@ mysolution:https://github.com/Sharanya-create/100-days-of-code/blob/master/Bitwi
 
 **Thoughts**: my logic worked well for almost all test cases and errors I managed to correct but I felt it almost impossible to get the execution time down. But then finally I managed to do it with a piece of extra code statement and the execution time was 0.58s
 
-**Link(s) to work**: https://auth.geeksforgeeks.org/user/sharanyabhat28/practice/
+**Link(s) to work**:problem: https://auth.geeksforgeeks.org/user/sharanyabhat28/practice/ mysolution:https://github.com/Sharanya-create/100-days-of-code/blob/master/sum_of_subarray.cpp
 
 ### Day 11: Proceeded with covid 19 tracker react application date:27-05-2020
 
