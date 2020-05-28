@@ -49,7 +49,8 @@ mysolution:https://github.com/Sharanya-create/100-days-of-code/blob/master/Bitwi
 
 **Thoughts**:Have a plan of attaching the second applet project to browser as extension so that it would act as a notepad for browser, for me to take notes while I am surfing through browser.
 
-**Link(s) to work**: would upload after completion ie after I attach the applet to browser as extension.
+**Link(s) to work**: key eventhandling applet: https://github.com/Sharanya-create/100-days-of-code/blob/master/Applet2.java
+would upload after completion ie after I attach the applet to browser as extension.
 
 ### Day 7: Completed the second Java applet, mentioned in day 6 with total perfection in orientation and fonts date:23-05-2020
 
