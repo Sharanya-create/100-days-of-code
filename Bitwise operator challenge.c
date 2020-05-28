@@ -1,5 +1,5 @@
-### //Bitwise operator challenge
-**I have offcourse not obatained the output at once and the comments describe how i debugged the logical errors without a watch function by giving inline code statements**
+//Bitwise operator challenge
+/**I have offcourse not obatained the output at once and the comments describe how i debugged the logical errors without a watch function by giving inline code statements**/
 #include<stdio.h>
 
 int main() {
