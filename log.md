@@ -24,7 +24,8 @@
 
 **Thoughts**:This challenge troubled me since 5 days, only 4 out of the 14 testcases were passing, Later I found out that there was problem with array size and not my logic.
 
-**Link(s) to work**:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
+**Link(s) to work**:problem:https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?utm_campaign=social-buttons&utm_medium=linkedin&utm_source=challenge
+mysolution:https://github.com/Sharanya-create/100-days-of-code/blob/master/Bitwise%20operator%20challenge.c
 
 ### Day 4:Began with building a COVID 19 tracker  react application and backend for beautician website date:20-05-2020
 
@@ -89,6 +90,15 @@
 **Thoughts**: Visual studio crashed on my laptop and installing it all again would take more of internet and time. Hence I installed node.js separately on my laptop, added the path to environment variable and began with the development on Atom editor. Was able to code and get all the cards up and running with the count animation applied.
 
 **Link(s) to work**: would upload after completion of the application.
+
+## Day 12: Class Challenge on Hackerank date:28-05-2020
+
+**Today's progress**: Completed class challenge on hackerrank and obtained the score alotted for it. Current hackerank rank in c:68416 and c++:148355
+
+**Thoughts**: Learnt the new stringstream class concept that comes under <sstream> header in c++
+  
+**Link(s) to work**: problem:https://www.hackerrank.com/challenges/c-tutorial-class/problem 
+mysolution: https://github.com/Sharanya-create/100-days-of-code/blob/master/class%20challenge.cpp
 
 
 
