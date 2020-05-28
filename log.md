@@ -92,7 +92,7 @@ would upload after completion ie after I attach the applet to browser as extensi
 
 **Link(s) to work**: would upload after completion of the application.
 
-## Day 12: Class Challenge on Hackerank date:28-05-2020
+### Day 12: Class Challenge on Hackerank date:28-05-2020
 
 **Today's progress**: Completed class challenge on hackerrank and obtained the score alotted for it. Current hackerank rank in c:68416 and c++:148355
 
