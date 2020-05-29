@@ -92,7 +92,7 @@ would upload after completion ie after I attach the applet to browser as extensi
 
 **Link(s) to work**: would upload after completion of the application.
 
-### Day 12: Class Challenge on Hackerank date:28-05-2020
+### Day 12: Class Challenge on Hackerrank date:28-05-2020
 
 **Today's progress**: Completed class challenge on hackerrank and obtained the score alotted for it. Current hackerank rank in c:68416 and c++:148355
 
@@ -100,6 +100,15 @@ would upload after completion ie after I attach the applet to browser as extensi
   
 **Link(s) to work**: problem:https://www.hackerrank.com/challenges/c-tutorial-class/problem 
 mysolution: https://github.com/Sharanya-create/100-days-of-code/blob/master/class%20challenge.cpp
+
+### Day 13: Stringstream and strings challenge on hackerrank date:29-05-2020
+
+**Today's progress**: Completed the above mentioned challenges on c++ in hackerrank and now i am only 50 points away from my 4th star in c++
+
+**Thoughts**:Coded for 2 hours and obtained 20 points for the challenges. I had started hackerrank during my study holidays in second sem just before externals in c and managed to get 3 stars within 2 weeks but then i got busy in academics and had paused coding on hackerrank and used platforms like sololearn for completeing tutorials on programming languages and experimenting on codes, likewise i have 61 codes written in sololearn on c language and i use it only for experimenting on programs. I resumed C language and started C++ in hackerrank recently and managed to get 3 stars, silver batch in c++ in 2 weeks, provided not coding continuously on it due to circumstances, however i coded on other languages like html, php,css,mysql,js,java and python. Now my aim is to get gold batch in both c and c++ within lockdown.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/stringstream.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/string%20challenge.cpp
 
 
 
