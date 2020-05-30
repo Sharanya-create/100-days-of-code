@@ -37,3 +37,6 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on LinkedIn: [@Sharanya](https://www.linkedin.com/in/sharanya-bhat-aa38a0180/)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+## Note
+
+*This repository contains solutions for hackerrank,geeks for geeks problem statements and codebases for web applications,java programs and is liscensed under MIT liscence
