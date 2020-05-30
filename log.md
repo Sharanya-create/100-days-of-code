@@ -110,6 +110,18 @@ mysolution: https://github.com/Sharanya-create/100-days-of-code/blob/master/clas
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/stringstream.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/string%20challenge.cpp
 
+### Day 14: Completed multiple challenges on hackerrank date:30-05-2020
+ 
+**Today's progress**: Coded for 2 and half hours in c++ and obtained 4th star. Now i am only 35 points away to my gold bagde.
+
+**Thoughts**: As i completed my 3rd internal assisments today, I was able to code for 2 and half hours and complete multiple challenges on hackerrank. Soon i will obtain my gold badge.
+
+**Link(s) to work**:https://github.com/Sharanya-create/100-days-of-code/blob/master/structs.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/inheritance.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/classes-objects.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/rectarea.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/virtual_functions.cpp
+
 
 
 
