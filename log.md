@@ -107,7 +107,7 @@ mysolution: https://github.com/Sharanya-create/100-days-of-code/blob/master/clas
 
 **Thoughts**:Coded for 2 hours and obtained 20 points for the challenges. I had started hackerrank during my study holidays in second sem just before externals in c and managed to get 3 stars within 2 weeks but then i got busy in academics and had paused coding on hackerrank and used platforms like sololearn for completeing tutorials on programming languages and experimenting on codes, likewise i have 61 codes written in sololearn on c language and i use it only for experimenting on programs. I resumed C language and started C++ in hackerrank recently and managed to get 3 stars, silver batch in c++ in 2 weeks, provided not coding continuously on it due to circumstances, however i coded on other languages like html, php,css,mysql,js,java and python. Now my aim is to get gold batch in both c and c++ within lockdown.
 
-**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/stringstream.cpp
+**Link(s) to work**: solutions:https://github.com/Sharanya-create/100-days-of-code/blob/master/stringstream.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/string%20challenge.cpp
 
 ### Day 14: Completed multiple challenges on hackerrank date:30-05-2020
@@ -116,7 +116,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/string%20challen
 
 **Thoughts**: As i completed my 3rd internal assisments today, I was able to code for 2 and half hours and complete multiple challenges on hackerrank. Soon i will obtain my gold badge.
 
-**Link(s) to work**:https://github.com/Sharanya-create/100-days-of-code/blob/master/structs.cpp
+**Link(s) to work**:solutions:https://github.com/Sharanya-create/100-days-of-code/blob/master/structs.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/inheritance.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/classes-objects.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/rectarea.cpp
