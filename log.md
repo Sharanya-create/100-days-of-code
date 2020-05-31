@@ -122,6 +122,15 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/classes-objects.
 https://github.com/Sharanya-create/100-days-of-code/blob/master/rectarea.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/virtual_functions.cpp
 
+### Day 15: Coursera coding assignments date:31-05-2020
+
+**Today's Progress**:Coded for about one and half hours and completed the last remaining two coding assignments on Coursera platform under "python to access web data" course and got my certificate. 
+
+**Thoughts**: This course dealt with web scrapping, JSON data parsing and interacting with APIs. Assignment was all about parsing JSON data and getting the required information, interacting with Google API and Geojson API to get the place id from the JSON data for a given location that required parsing of JSON data and iterating over dictionaries and lists.
+
+**Link(s) to work**: abiding by the Coursera honor code I can't open source my solution as any one would use it for their assignments. Henceforth providing verification link for my certificate.
+ 
+https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
 
 
