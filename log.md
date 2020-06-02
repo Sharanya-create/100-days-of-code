@@ -124,7 +124,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/virtual_function
 
 ### Day 15: Coursera coding assignments date:31-05-2020
 
-**Today's Progress**:Coded for about one and half hours and completed the last remaining two coding assignments on Coursera platform under "python to access web data" course and got my certificate. 
+**Today's progress**:Coded for about one and half hours and completed the last remaining two coding assignments on Coursera platform under "python to access web data" course and got my certificate. 
 
 **Thoughts**: This course dealt with web scrapping, JSON data parsing and interacting with APIs. Assignment was all about parsing JSON data and getting the required information, interacting with Google API and Geojson API to get the place id from the JSON data for a given location that required parsing of JSON data and iterating over dictionaries and lists.
 
@@ -134,11 +134,21 @@ https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
 ### Day 16: proceeded with covid 19 tracker react application date:1-06-2020
 
-**Today's Progress**: Got the line chart up and running by coding for 1 and half hours
+**Today's progress**: Got the line chart up and running by coding for 1 and half hours
 
 **Thoughts**: There were lots and lots of errors which I debugged and completed the line chart next is to put up the bar chart, country picker and style the page. Due to migraine I wasn't able to update the log on 16th , hence updating it today. This morning when I felt completely fine I suddenly remembered about the log and updated it immediately. I guess I order to make my headache go down I need to code for the whole day which magically stops my headache until I am coding!!
 
 **Lin(s) to work**: Would upload after completion
+
+### Day 17: Hackerrank C++- gold badge date:2-06-2020
+
+**Today's progres**: Earned a gold badge and got certified on c++ from hackerrank. 
+
+**Thoughts**: As mentioned in previous log commit i required 35 points more to get a gold badge but i solved two challenges and managed to get 55/35 one of 30 points and other of 25.
+
+**Link(s) to work**:solution: https://github.com/Sharanya-create/100-days-of-code/blob/master/mulinheritance.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.cpp
+
 
 
 
