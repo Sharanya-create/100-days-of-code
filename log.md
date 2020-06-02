@@ -132,5 +132,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/virtual_function
  
 https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
+### Day 16: proceeded with covid 19 tracker react application date:1-06-2020
+
+**Today's Progress**: Got the line chart up and running by coding for 1 and half hours
+
+**Thoughts**: There were lots and lots of errors which I debugged and completed the line chart next is to put up the bar chart, country picker and style the page.
+
+**Lin(s) to work**: Would upload after completion
+
 
 
