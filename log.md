@@ -136,7 +136,7 @@ https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
 **Today's Progress**: Got the line chart up and running by coding for 1 and half hours
 
-**Thoughts**: There were lots and lots of errors which I debugged and completed the line chart next is to put up the bar chart, country picker and style the page.
+**Thoughts**: There were lots and lots of errors which I debugged and completed the line chart next is to put up the bar chart, country picker and style the page. Due to migraine I wasn't able to update the log on 16th , hence updating it today. This morning when I felt completely fine I suddenly remembered about the log and updated it immediately. I guess I order to make my headache go down I need to code for the whole day which magically stops my headache until I am coding!!
 
 **Lin(s) to work**: Would upload after completion
 
