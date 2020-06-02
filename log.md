@@ -142,7 +142,7 @@ https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
 ### Day 17: Hackerrank C++- gold badge date:2-06-2020
 
-**Today's progres**: Earned a gold badge and got certified on c++ from hackerrank. 
+**Today's progres**: Earned a gold badge and got certified on c++ from hackerrank. Current rank:41833
 
 **Thoughts**: As mentioned in previous log commit i required 35 points more to get a gold badge but i solved two challenges and managed to get 55/35 one of 30 points and other of 25.
 
