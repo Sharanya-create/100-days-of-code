@@ -151,11 +151,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 ### Day 18: python3 scrapper Program date:3-06-2020 
 
-**Today's Progress**: Completed a scrapper Program in python3. I had done a similar program much before but then today I completely re wrote it in a better way.
+**Today's Progress**: Completed a scrapper Program in python3 and converted it to software using pyinstaller. I had done a similar program much before but then today I completely re wrote it in a better way.
 
-**Thoughts**: I completed my scraper program in 1.15 hr and this program handles some cases like, if the user bymistakeky executes the program instead of other program then it gives an exit option. If the user wants to scrape the same website again after once done then this situation is also handled as like the user neednot enter the URL again and again.
+**Thoughts**: I completed my scraper program in 1.15 hr and this program handles some cases like, if the user bymistakeky executes the program instead of other program then it gives an exit option. If the user wants to scrape the same website again after once done then this situation is also handled as like the user need not enter the URL again and again. Github doesn't allow upload of files above 100 hence i cannot upload the software but below is the link to program.
 
-**Link(s) to work:
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/scrapdemo.py
 
 
 
