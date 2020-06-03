@@ -1,3 +1,5 @@
+#inorder to download and run the program there must be beautifulSoup4 installed and the bs4 directory containing it must be placed in the same directory where this python program is saved
+#inorder to install beautifulsoup4 run command pip install beaitifulsoup4 in the command prompt/terminal
 import urllib.request,urllib.parse,urllib.error
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
