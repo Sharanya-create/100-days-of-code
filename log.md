@@ -169,7 +169,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Today's Progress**: Began developing a registration form on Java swings and coded a website for scrapping the reviews for my college.
 
-**Thoughts**: me and my professor have taken up a project to build a sentimental analysis tool by taking metrics such as ratings and reviews of our college, which helps us to know flaws in college systems and facilities. My role is to provide data to my professor using data Scraper  analysis of which will be conducted by sir. I started building a different type of scraper website than my previous project which will have option to scrape all those top websites which provide review of our college and for today I coded for about 6hours. As I was working till now, I am updating log of 5th June on 6th June 12am. 
+**Thoughts**: me and my professor have taken up a project to build a sentimental analysis tool by taking metrics such as ratings and reviews of our college, which helps us to know flaws in college systems and facilities. My role is to provide data to my professor using data Scraper  analysis of which will be conducted by sir. I started building a different type of scraper website than my previous project which will have option to scrape all those top websites which provide review of our college and for today I coded for about 6hours. As I was working till now, I am updating log of 5th June on 6th June 1am. 
 
 **Link(s) to work**: would upload after completion of the data Scraper part of the project.
 
