@@ -165,7 +165,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: my solution for student marks sum challenge: https://github.com/Sharanya-create/100-days-of-code/blob/master/student_mark_sum.c
 
-### Day 20: Java swings and Data Scraper date:05-06-2020
+### Day 20: Google reg.form clone-swings and Data Scraper date:05-06-2020
 
 **Today's Progress**: Began developing a registration form on Java swings and coded a website for scrapping the reviews for my college.
 
@@ -180,6 +180,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 **Thoughts**: Yesterday while I was building the scraper page for my college I thought I would not use flask and just keep it like separate html files that would open on browser on a click. But then I wanted to give it a typical web application look that would open the index page when the development server would start. Hence I coded the main.py and set my application on Flask, along with which I completed the index page with CSS animation properties such as the content on the page would fade in appear on load. Today I coded for 1.5 hrs.
 
 **Link(s) to work**: would upload it soon when I complete the scrapper sites for all the top colleges of Mangalore and then push it to GitHub. 
+
+### Day 22:Google Registration form clone date:07-06-2020
+
+**Today's progress**: Completed rgistration form using java swings and even completed the second page, scraper page for second top college for my data scraper website. Coded for 4 hours.
+
+**Thoughts**: I have made my registration form look almost similar to google forms for that can be built for registration, the only differences are that i have not used a post method for sending the details to the form owner but have given a local file path where the details are written using java file handling concepts and i have replaced the submit button with register as it would suit much on swings frame interface. I have used Jframe, Jlabel, JButton, JTextField components of java swings. This form mimics the functionality of simple google form for registration. With 3 fields for entering name,mobile number and email. It is used only for demonstration of working of a form. Google form will be coded with javascript and i have coded my form  with java.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/Registration%20Form/src/Swing/Reg.java
 
 
 
