@@ -179,7 +179,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Thoughts**: Yesterday while I was building the scraper page for my college I thought I would not use flask and just keep it like separate html files that would open on browser on a click. But then I wanted to give it a typical web application look that would open the index page when the development server would start. Hence I coded the main.py and set my application on Flask, along with which I completed the index page with CSS animation properties such as the content on the page would fade in appear on load. Today I coded for 1.5 hrs.
 
-**Link(s) to work**: would upload it soon when I complete the scrapper sites for all the top colleges of Mangalore and then push it to GitHub. 
+**Link(s) to work**: would upload it soon when I complete the scraper sites for all the top colleges of Mangalore and then push it to GitHub. 
 
 ### Day 22:Google Registration form clone date:07-06-2020
 
@@ -188,6 +188,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 **Thoughts**: I have made my registration form look almost similar to google forms for that can be built for registration, the only differences are that i have not used a post method for sending the details to the form owner but have given a local file path where the details are written using java file handling concepts and i have replaced the submit button with register as it would suit much on swings frame interface. I have used Jframe, Jlabel, JButton, JTextField components of java swings. This form mimics the functionality of simple google form for registration. With 3 fields for entering name,mobile number and email. It is used only for demonstration of working of a form. Google form will be coded with javascript and i have coded my form  with java.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/Registration%20Form/src/Swing/Reg.java
+
+### Day 23: Data scraper website for competitive analysis date:08-06-2020
+
+**Today's progress**: completed the 3rd scraper site for one of the top college of Mangalore and did some styling for my pages and added previous links to the pages applicable and coded main.py for the action.
+
+**Thoughts**: I have one more page to go and then scraper part for the competitive analysis tool will be ready. After i complete the scraper web appliaction, I would continue with my covid 19 tracker react application.
+
+**Link(s) to work**: would upload to github after completion
 
 
 
