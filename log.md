@@ -132,7 +132,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/virtual_function
  
 https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
-### Day 16: proceeded with covid 19 tracker react application date:1-06-2020
+### Day 16: proceeded with covid 19 tracker react application date:01-06-2020
 
 **Today's progress**: Got the line chart up and running by coding for 1 and half hours
 
@@ -140,7 +140,7 @@ https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 
 **Lin(s) to work**: Would upload after completion
 
-### Day 17: Hackerrank C++- gold badge date:2-06-2020
+### Day 17: Hackerrank C++- gold badge date:02-06-2020
 
 **Today's progres**: Earned a gold badge and got certified on c++ from hackerrank. Current rank:41833
 
@@ -149,7 +149,7 @@ https://www.coursera.org/verify/Q8ZHRGJEFLLJ
 **Link(s) to work**:solution: https://github.com/Sharanya-create/100-days-of-code/blob/master/mulinheritance.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.cpp
 
-### Day 18: python3 scrapper Program date:3-06-2020 
+### Day 18: python3 scrapper Program date:03-06-2020 
 
 **Today's progress**: Completed a scrapper Program in python3 and converted it to software using pyinstaller. I had done a similar program much before but then today I completely re wrote it in a better way.
 
@@ -159,11 +159,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 ### Day 19: Hackerank challenges date:04-06-2020
 
-**Today's progress**: Completed student marks sum challenge in c and began with python challenges. Solved 4 challenges on pyhton3 (simple beginner level challenges) and earned the first star.
+**Today's progress**: Completed student marks sum challenge in c and began with python challenges. Solved 4 basic introductory challenges on pyhton3 (simple beginner level challenges) and earned the first star.
 
 **Thoughts**: I have decided to code on python and c side by side and aim for gold badge for both. 
 
-**Link(s) to work**: my solution for student marks sum challenge: https://github.com/Sharanya-create/100-days-of-code/blob/master/student_mark_sum.c
+**Link(s) to work**: my solution for student marks sum challenge: https://github.com/Sharanya-create/100-days-of-code/blob/master/student_mark_sum.c not uploading python as they are simple hello world kind of challenges i completed them just for a start with python would upload next challenges onwards.
 
 ### Day 20: Google reg.form clone-swings and Data Scraper date:05-06-2020
 
@@ -212,6 +212,16 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
  **Thoughts**: I started coding at 10pm and my goal was to code for 1hr minimum but i ended up coding for 4 hrs till 2pm as there was some sort of electrical work going on in my house i decided to code as however i wouldnt get sleep.Hence i am updating my log for june 10th on today ie june 11th. My friend had recently asked me to build a bucket list app for him and i was able to complete front end and now only back end is remaining and i have began with it.
  
  **Link(s) to work**: data scraper website for competitive analysis, data scraper website codebase: https://github.com/Sharanya-create/100-days-of-code/tree/master/analysiswebsite
+ 
+ ### Day 26: Python Hackerank challenges date:11-06-2020
+ 
+ **Today's progress**: Completed remaining 3 introductory challenges in python3 and obtained the second star, with this i have completed all introductory challenges on python.
+ 
+ **Thoughts**: I had started with python and obtained the first star recently in the days of 100daysofcode challenge itself, as mentioned in one of  my previous log commits. Today i completed some 3 challenges and obtained second star. My aim is to get gold batch within completion of lockdown.
+ 
+ **Link(s) to work**: my solution for 3 challenges, loops,print function,leapyear function : https://github.com/Sharanya-create/100-days-of-code/blob/master/leapyrfunction.py ,  https://github.com/Sharanya-create/100-days-of-code/blob/master/print_without_newline.py ,
+ https://github.com/Sharanya-create/100-days-of-code/blob/master/loopchallenge.py
+ 
  
  
 
