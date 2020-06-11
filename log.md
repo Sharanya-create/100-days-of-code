@@ -196,6 +196,16 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 **Thoughts**: I have one more page to go and then scraper part for the competitive analysis tool will be ready. After i complete the scraper web appliaction, I would continue with my covid 19 tracker react application.
 
 **Link(s) to work**: would upload to github after completion
+ 
+ ### Day 24: Flask Bucket List date 09-06-2020
+ 
+ **Todays Progress*: Completed front end and began with backend of bucket list web application and completed the scraper website after styling it a bit and submitted it to my professor.
+ 
+ **Thoughts**: I started coding at 10pm and my goal was to code for 1hr minimum but i ended up coding for 4 hrs till 2pm as there was some sort of electrical work going on in my house i decided to code as however i wouldnt get sleep.Hence i am updating my log for june 9th on today ie june 10th. My friend had recently asked me to build a bucket list app for him and i was able to complete front end and now only back end is remaining and i have began with it.
+ 
+ **Link(s) to work**: data scraper website for competitive analysis, data scraper website codebase: https://github.com/Sharanya-create/100-days-of-code/tree/master/analysiswebsite
+ 
+ 
 
 
 
