@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+  <html>
+         <head>
+               <title>
+
+
+                 Reviews-Home
+
+
+               </title>
+              <style>
+                body{
+                  background-image: url('{{ url_for('static', filename='images/back.jpg') }}');
+                  animation:fadeInAnimation ease 3s;
+                  animation-iteration-count:1;
+                  animation-fill-mode:forwards;
+                }
+                @keyframes fadeInAnimation  {
+                  0%{
+                    opacity:0;
+                  }
+                  100%{
+                    opacity:1;
+                  }
+
+                }
+                #div{
+                  text-align: center;
+                  position: relative;
+                  left:25px;
+                  top:40px;
+                }
+                #b{
+                  width:130px;
+                  height:35px;
+                  position: relative;
+                  right:20px;
+                  background-color:#8df153;
+                }
+
+
+              </style>
+
+
+         </head>
+         <body >
+           <h1 style="color:white;font-size:40px;font-family: TimesofNewRoman;text-align:center">Welcome to Web Scrapper</h1>
+           <h2 style="color:white;font-size:22px;font-family:TimesofNewRoman;text-align:center">Let's get started!!</h2>
+           <p style="color:white;font-size:22px;font-family:TimesofNewRoman;text-align:center">In every page select a particular site and press Extract data</p>
+           <div id="div"><button id="b"><a href="showOnclick1">Explore colleges</a></button></div>
+        </body>
+
+
+
+
+
+
+
+    </html>

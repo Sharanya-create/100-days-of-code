@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+      <html>
+    <head>
+      <title>Reviews</title>
+      <!-- CSS only -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+      <style>
+             #div{
+               text-align: center;
+               position: relative;
+               left:25px;
+               top:40px;
+             }
+            #b{
+              width:100px;
+              height:35px;
+              position: relative;
+              right:20px;
+              background-color:#8df153;
+            }
+            body, html {
+               height: 100%;
+             }
+             * {
+                 box-sizing:border-box;
+                }
+
+           .body{
+              background-image:url('{{ url_for('static', filename='images/back.jpg') }}');
+              filter: blur(8px);
+              -webkit-filter: blur(8px);
+
+              /* Full height */
+              height: 100%;
+
+              /* Center and scale the image nicely */
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+
+            }
+
+            .a{
+              background-color: rgb(0,0,0); /* Fallback color */
+              background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+              color: white;
+              font-weight: bold;
+              border: 3px solid #f1f1f1;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              z-index: 2;
+              width: 80%;
+              padding: 20px;
+              text-align: center;
+            }
+            #last{
+              position: relative;
+              left:490px;
+              top:40px;
+            }
+            #previous{
+              position:relative;
+              right:950px;
+              top:-1px;
+            }
+
+
+
+      </style>
+
+
+    </head>
+    <body >
+      <div class="body"></div>
+      <div class="a">
+         <h1 style="color:White">Canara College Of Engineering</h1>
+         <select name="sites" id="s">
+           <option value="collegedunia">Collegedunia.com</option>
+           <option value="career360">career360.com</option>
+           <option value="siksha">siksha.com</option>
+           <option value="justdial">justdial.com</option>
+           <option value="getmyuni">getmyuni.com</option>
+           <option value="facebook">facebook.com</option>
+
+
+         </select>
+        <div id="div"> <button id="b"  onclick="myFunction()"><a id="a1" href="#">Extract data</button></div>
+        <div id="last"><a style="color:white"href="showOnclick2" id="previous"><-previous</a></div>
+
+
+        </div>
+         <script>
+                  function myFunction(){
+                   var url="http://api.scraperapi.com?api_key=52ebc366144a846306f837a876d21dda&url="
+                    //var urll="https://collegedunia.com/college/14894-sahyadri-college-of-engineering-and-management-mangalore"
+                   var x=document.getElementById("s").selectedIndex;
+                   var val=document.getElementsByTagName('option')[x].value;
+                  // console.log(val);
+                   if (val=="collegedunia"){
+                     //console.log(val);
+                     //console.log(url+"https://collegedunia.com/college/15312-st-joseph-engineering-college-sjec-mangalore/courses-fees");
+                     document.getElementById("a1").href =url+"https://collegedunia.com/college/13160-canara-engineering-college-ceg-mangalore/courses-fees";
+                   }
+                   else if (val=="career360") {
+                     document.getElementById("a1").href =url+"https://www.careers360.com/colleges/canara-engineering-college-mangalore/reviews";
+                   }
+                   else if(val=="siksha"){
+                     document.getElementById("a1").href =url+"https://www.shiksha.com/college/canara-engineering-college-mangalore-27789";
+                   }
+                   else if(val=="justdial"){
+                     document.getElementById("a1").href=url+"https://www.justdial.com/Mangalore/Canara-Engineering-College-Bantwal/0824P824STD3002297_BZDET/reviews";
+                   }
+                   else if(val=="getmyuni"){
+                     document.getElementById("a1").href=url+"https://www.getmyuni.com/college/canara-engineering-college-cec-mangalore-courses-fees";
+                   }
+                   else if (val=="facebook"){
+                     document.getElementById("a1").href=url+"https://www.facebook.com/pg/CanaraEngineeringCollege/reviews/?ref=page_internal";
+                   }
+                   else{
+                     document.getElementById("a1").href=url+"https://www.glassdoor.co.in/Reviews/Canara-Engineering-College-Reviews-E725345.htm";
+                   }
+
+
+                 }
+
+
+         </script>
+
+
+
+
+    </body>
+
+
+      </html>
