@@ -201,7 +201,7 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Today's Progress**: Completed 4th web page for extracting reviews for 4th top college with this I completed 95% of my mini project and now only some styling and testing remains.
 
-**Thoughts** this Mini project is developed on Flask framework with python and html, CSS, js and bootstrap.
+**Thoughts** this Mini project is developed on Flask framework with python and html, CSS, js and bootstrap. Updating the log on 11th June as I had actually missed updating it on 9th, got a bit confused due to lab exam pressure and then thought that I had already updated the log hence when I saw one day missing today on 11th june, I am updating this today. Luckily I got my coding progress for day 24 as I had texted about it to my professor while I was reporting the progress of data Scraper mini project.
 
 **Link(s) to work**: would upload on day 25 after complete testing and final styling of the pages.
  
