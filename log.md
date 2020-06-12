@@ -221,6 +221,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
  
  **Link(s) to work**: my solution for 3 challenges, loops,print function,leapyear function : https://github.com/Sharanya-create/100-days-of-code/blob/master/leapyrfunction.py ,  https://github.com/Sharanya-create/100-days-of-code/blob/master/print_without_newline.py ,
  https://github.com/Sharanya-create/100-days-of-code/blob/master/loopchallenge.py
+
+### Day 27: Flask Bucket list app date:12-06-2020
+
+**Today's Progress**: I made the bucket list app store the value of previously entered goals by using localStorage methods of js. 
+
+**Thoughts**: coded for 4 hours, debugging the error was a lot of fun and now I have a even more better idea as I feel this will be more better than the current code.
+
+**Link(s) to work**: would upload after completion
  
  
  
