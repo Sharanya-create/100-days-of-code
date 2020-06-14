@@ -238,11 +238,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
-### Day 29: Python Hackerrank challenge date:14-06-2020
+### Day 29: Python Hackerrank challenge and bucket list app date:14-06-2020
 
-**Today's progress**: completed list comprehension  challenge on python in hackerrank
+**Today's progress**: completed list comprehension  challenge on python in hackerrank and coded on bucket list app
 
-**Thoughts**: Today my mother needed help in house work and as usual i could not tell no hence could code only for 1hr and completed a python challenge on hackerank now i am only 25 points away to my 3rd star.
+**Thoughts**: Today my mother needed help in house work and as usual i could not tell no hence could code only for 2hr and completed a python challenge on hackerank, now i am only 25 points away to my 3rd star along with which I changed the look of my bucket list app by adding an extra index page and converted my previous index page to home page. Integrated sign up page with index page and now I am working on backend of sign in and sign up pages. 
 
 **Link(s) to work**:https://github.com/Sharanya-create/100-days-of-code/blob/master/listcomprehension.py
 
