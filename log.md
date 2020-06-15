@@ -246,6 +246,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**:https://github.com/Sharanya-create/100-days-of-code/blob/master/listcomprehension.py
 
+### Day 30: Bucket list app date:15-06-2020
+
+**Today's Progress**: coded for sign up page backend using PHP.
+
+**Thoughts**: my intention to make a sign up and sign in page for my app is to make it available for multiple users. Initially I coded for sign up backend using jQuery Ajax and then I wanted to render a new template(sign in page) after once signing up is done. But then I got to know that it is not possible and some possible solutions that I tried did not work hence I felt simpler is to use PHP and register users. I managed to code for some 1 and half hours today.
+
+**Link(s) to work**: would upload after completion
+
 
 
  
