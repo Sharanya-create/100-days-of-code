@@ -270,6 +270,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 33: Bucket list app date:18-6-2020
+
+**Today's Progress**: made the app store users goals into database.
+
+**Thoughts**: I coded for 4hours and made the app store the goal as and then entered, into the database.
+
+**Link(s) to work**: would upload after completion
 
 
 
