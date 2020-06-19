@@ -279,6 +279,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 **Link(s) to work**: would upload after completion
 
 
+### Day 34: Bucket list app date:19-6-2020
+
+**Today's Progress**: completed fetching the goals from database and displaying it on home page. 
+
+**Thoughts**: For today I completed user data isolation handled boundary cases like invalid entries by user, incomplete entries and so on. This completes my app 90% and now only deletion of goal is left out. I would build this mini project with complete perfection as I had done many other projects of mine or as I would do other projects in future, no matter how much ever time it may take, perfection is more important.
+
+**Link(s) to work**: would upload after completion
+
 
  
  
