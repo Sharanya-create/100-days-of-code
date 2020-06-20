@@ -287,6 +287,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 35: To do list app date:20-6-2020
+
+**Today's Progress**: completed UI for to do list application
+
+**Thoughts**: simultaneous to bucket list app I started to do list app for myself and completed the UI coding. This app has a similar user interface as of Bucket list app.
+
+**Link(s) to work**: would upload after completion
+
 
  
  
