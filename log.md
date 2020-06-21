@@ -295,6 +295,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 36: To do list app date:21-6-2020
+
+**Today's Progress**: Completed UI for the app and backend for delete all list button, began with done checkbox so that it can strike the done list. Coded for 1 hr 15 mins.
+
+**Thoughts**: in the beginning I liked python3 and even now I do, now I have begun to fall for JavaScript.
+
+**Link(s) to work**: would upload after completion.
+
 
  
  
