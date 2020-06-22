@@ -303,6 +303,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion.
 
+### Day 37: Bucket list app date:22-6-2020
+
+**Today's Progress**: Started coding for deletion backend. Coded for 1hr
+
+**Thoughts**: apart from my virtual Internship at Microsoft, I coded for 1hr on backend of deleting or striking off the completed goals.
+
+**Link(s) to work**: would upload after completion
+
 
  
  
