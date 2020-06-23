@@ -311,6 +311,15 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 38: To do list app date:23-6-2020
+
+**Today's Progress**: continued coding for deletion backend
+
+**Thoughts**: whilst I coded for backend I found out some problems with UI ie only arrangement of check boxes, while I thought on checkbox arrangement, I then got a great idea about the entire app's UI would code it in a better way tomorrow and even correct checkbox arrangement. There are even errors in the checkbox backend out of which 3 I resolved. Now there are some remaining that will make my app work.
+
+**Link(s) to work**: Would upload after completion.
+
+
 
  
  
