@@ -319,6 +319,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: Would upload after completion.
 
+### Day 39: Bucket list app date:24-6-2020
+
+**Today's Progress**: completed delete all goals backend.
+
+**Thoughts**: coded to delete all goals of a particular user using js , jinja and python.
+
+**Link(s) to work**: would upload after completion
+
 
 
  
