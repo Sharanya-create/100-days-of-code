@@ -327,6 +327,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 40: Bucket list app date:25-6-2020
+
+**Today's Progress**: completed the UI for checkbox, that is, corrected the checkbox arrangement and worked on deletion backend. Now my app can check any one goal as done.
+
+**Thoughts**: my plan is to take an array for checkbox id and keep track of all goals that were checked as done.
+
+**Link(s) to work**: would upload after completion
 
 
  
