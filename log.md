@@ -335,6 +335,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work**: would upload after completion
 
+### Day 41: Bucket list app date:26-6-2020
+
+**Today's Progress**: completed check part for checkbox es and even uncheck but there is some problem in the uncheck code which is  yet  to be figured out. Testing for check part is completed it works absolutely fine.
+
+**Thoughts**: This mini project is taking long yet I have enjoyed it most until now.
+
+**Link(s) to work** would upload after completion
+
 
  
  
