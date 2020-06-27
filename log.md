@@ -343,6 +343,16 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 
 **Link(s) to work** would upload after completion
 
+### Day 42: Bucket list app date:27-6-2020
+
+**Today's Progress**:Completed the bucket list app for one user and hence my friend's requirement is satisfied. In the multiple user bucketlist with which i was dealing till today is now able to check and uncheck successfully for one user work for multiple user check and uncheck data handling is going on.
+
+**thoughts** I will open sourcing the codebase for single user bucketlist here and i have even tried my best to make it responsive. It suits good on desktop-site of mobile view and on pc's and tablets, especially suits very well on larger screens. I have hosted it on AWS s3, It functions well and i would be keeping it only for some one week for my friends to try. Once i have made it even more responsive and good in UI for mobiles, I will host it on C panel.So that people can try out. Once the multiple user one is working well i will do the same to it.
+
+**Link(s) to my work**:https://github.com/Sharanya-create/100-days-of-code/tree/master/Bucketlist
+to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist.html ( valid only for a week)
+
+
 
  
  
