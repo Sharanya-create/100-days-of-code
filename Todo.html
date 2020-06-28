@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>To do list</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+<!-- JS, Popper.js, and jQuery -->
+
+
+    <style>
+
+    #myInput{
+      margin:0;
+      border:none;
+      border-radius:0;
+      width:75%;
+      padding:10px;
+    /*  float:left:*/
+      font-size:16px;
+      height:30px;
+
+
+    }
+    input{
+      margin:0;
+      border:none;
+      border-radius:0;
+      width:70%;
+      padding:10px;
+    /*  float:left:*/
+      font-size:16px;
+
+    }
+    .addBtn{
+
+
+      width:20%;
+      text-align: center;
+      background:#89ddfb;
+      color:black;
+      float:left;
+      font-size:14px;
+      cursor:pointer;
+      transition:0.3s;
+      border-radius:50%;
+      font-size:16px;
+      height:40px;
+
+    }
+    /*.addBtn:hover{
+      background-color: #bbb;
+    }*/
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
+
+#a1{
+  position:relative;
+
+  left:70px;
+  width:20%;
+
+
+}
+#b1{
+  position:relative;
+
+  left:12px;
+  width:20%;
+
+
+}
+#a{
+ position:relative;
+  bottom:1210px;
+  right:30px;
+  width:2%;
+
+}
+#b{
+  position:relative;
+  bottom:1210px;
+  left:170px;
+  width:2%;
+}
+#db{
+  background-color: #89ddfb;
+  color:black;
+
+}
+#div1{
+  width:70%;
+  position: relative;
+  top:1px;
+
+}
+#div{
+
+width:30%;
+position: relative;
+right:5%;
+bottom:-4px;
+
+}
+#div,#div1{
+  float:left;
+}
+.jumbotron{
+  width:100%;
+  height: 80%;
+}
+
+
+
+
+
+
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+
+                <button id="db"> <li role="presentation" onclick="deletefn()">Delete your list</button>
+
+
+
+                </ul>
+            </nav>
+
+        </div>
+
+        <div style="text-align:center" class="jumbotron">
+            <h1><b>Hey Sharanya whats on your mind for today?</b></h1>
+
+            <div id="div1">
+            <form>
+              <input type="text" name="myInput" id="myInput" placeholder="Enter your To-Dos">
+            </form>
+          </div>
+            <div id="div"><button style="font-size:20px;"class="addBtn"onclick="op()" >+</button></div>
+
+
+
+        </div>
+
+        <div class="row marketing" >
+            <div id="a1" class="col-lg-6">
+              <div id="check2"></div>
+
+
+
+            </div>
+
+
+
+            <div id="b1" class="col-lg-6">
+              <div id="check1"></div>
+            <!--  <p id="p6">----------------</p>
+              <p id="p7">----------------</p>
+              <p id="p8">-----------------</p>
+              <p id="p9">-----------------</p>
+              <p id="p10">---------------</p>-->
+
+
+
+            </div>
+
+        </div>
+        <div class="row marketing" style="width:600px">
+            <div id="a" class="col-lg-6">
+
+
+
+            </div>
+
+
+
+            <div id="b" class="col-lg-6">
+
+
+
+
+
+            </div>
+
+        </div>
+
+
+
+
+      <!--  <div id="bb"><button id="b" onclick="op()">+</button></div>-->
+
+        <footer class="footer">
+            <p>&copy; Sharanya S Bhat</p>
+        </footer>
+
+    </div>
+    <script>
+          // var count=0;
+
+          var unchecked=0;
+          var checkid=null;
+           var i=-1;
+           var j;
+           var m;
+           var count=1;
+           var target=null;
+           var division1=document.getElementById('a');
+           var division2=document.getElementById('b');
+           var donee=0;
+           for(j=0;j<100;j++){
+             if(j%2==0){
+
+               var checkbox=document.createElement("input");
+               checkbox.setAttribute("type","checkbox");
+               checkbox.id=j;
+               console.log(checkbox.id);
+               checkbox.setAttribute("onclick","done()");
+               var p = document.createElement("p");
+               var div=document.getElementById("check1");
+               div.appendChild(checkbox);
+              // div.appendChild('&ensp;');
+               p.id="p"+j;
+               division1.appendChild(p);
+             }
+             else{
+               var checkbox=document.createElement("input");
+               checkbox.setAttribute("type","checkbox");
+               checkbox.id=j;
+               checkbox.setAttribute("onclick","done()");
+               var p = document.createElement("p");
+               var div=document.getElementById("check2");
+               div.appendChild(checkbox);
+              // div.appendChild('&ensp;');
+
+             //  var goal = document.createTextNode("\u00D7");
+             //  p.appendChild(goal);
+               p.id="p"+j;
+               division2.appendChild(p);
+             }
+           }
+
+           function deletefn(){
+              //console.log("error");
+
+            if(localStorage.getItem("goal"+i)==null){
+             var choice = prompt('Are you sure this would delete all yours lists and not recoverable.Type \"confirm\" to ensure');
+             if (choice!=null && choice=="confirm"){
+               alert("Deletion Successfull");
+               location.reload(true);
+               localStorage.clear();
+
+
+
+         }
+
+
+
+         }
+         else{
+           alert("you dont have any list!!")
+         }
+
+           }
+           function done(){
+             var checkbox;
+
+             for(var i=0;i<100;i++){
+               checkbox=document.getElementById(i);
+               //console.log(checkbox);
+               if(checkbox.checked==true){
+                 checkid=i;
+                 //console.log("nange marl");
+
+                 localStorage.setItem("checkid"+i,checkid);
+                 console.log("checkid:"+checkid);
+                 console.log("checkid-ls:"+localStorage.getItem("checkid"+i));
+                 //location.reload(true);
+
+               }
+               else{
+                 //console.log(i==localStorage.getItem("checkid"));
+                 for(m=0;m<100;m++){
+                   if(localStorage.getItem("checkid"+m)!=null){
+                 if(i==localStorage.getItem("checkid"+m)){
+                  // console.log("i am here");
+
+                   unchecked=1;
+                  // console.log("i:"+i);
+                   localStorage.removeItem("checkid"+m);
+                   localStorage.setItem("uncheckid"+m,i);
+                   console.log("uncheckid:"+i);
+                   console.log("unckeckid-ls:"+localStorage.getItem("uncheckid"+i));
+                   localStorage.setItem("unchecked",unchecked);
+                   //myfunction();
+                   //location.reload(true);
+                  // location.reload(true);
+                   //console.log(localStorage.setItem("unchecked",unchecked));
+                 }
+               }
+             }
+               }
+             }
+           }
+
+
+      /*function myfunction(){
+        for(var l=0;l<101;l++){
+          for(var k=0;k<101;k++){
+
+          if(localStorage.getItem("checkid"+k)==localStorage.getItem("uncheckid"+l)){
+            localStorage.setItem("checkid"+k,null);
+          }
+        }
+        }
+      }*/
+
+
+
+
+
+         window.addEventListener('load',(event)=>{
+              //start();
+              unchecked=localStorage.getItem("unchecked");
+              unchecked=parseInt(unchecked);
+            //  console.log(localStorage.getItem("unchecked",unchecked));
+            //localStorage.clear();
+             if(localStorage.getItem("i")!=null){
+             i= localStorage.getItem("i");
+             i=parseInt(i);
+             //console.log(i);
+
+             //var l=i;
+           }
+            /* count=localStorage.getItem("count");
+             count=parseInt(count);*/
+            // console.log(unchecked);
+
+
+
+
+          for(var i=0; i<100; i++){
+           if(localStorage.getItem("checkid"+i)!=null ){
+           var checkid=localStorage.getItem("checkid"+i);
+           console.log(checkid);
+           document.getElementById(checkid).checked=true;
+
+         }
+
+       }
+          for(var i=0;i<100;i++){
+           if(localStorage.getItem("uncheckid"+i)!=null){
+
+               localStorage.setItem("unchecked","0");
+            var checkid=localStorage.getItem("uncheckid"+i);
+            localStorage.removeItem("uncheckid"+i);
+             //console.log()
+             document.getElementById(checkid).checked=false;
+
+
+
+
+           }
+         }
+         for(var k=0;k<100;k++){
+           if(localStorage.getItem("goal"+k)!=null){
+             document.getElementById("p"+k).innerHTML=localStorage.getItem("goal"+k);
+           }
+         }
+
+
+
+
+
+
+
+
+
+     });
+
+
+
+
+
+
+
+          //  console.log(i);
+          /*  if(count!=1){
+            for(var k=0; k<50; k++){
+              if(localStorage.getItem("goal"+k)!=null){
+
+          document.getElementById("p"+k).innerHTML=  localStorage.getItem("goal"+k);
+            console.log("while loading..k="+k+"target="+localStorage.getItem("goal"+k));
+          }*/
+        //  console.log(localStorage.getItem("goal"+k));
+
+
+
+
+
+
+
+
+        function op(){
+          if (donee==0){
+            i=i+1;
+          }
+             if(i<100){
+            //  var target=prompt("Enter your first bucket list","None");
+              target = document.getElementById("myInput").value;
+
+
+
+          var target1 = document.createTextNode(target);
+          //console.log(target);
+
+            var p= document.createElement("p");
+            p.appendChild(target1);
+            if(target==''){
+              alert("You must write something!!");
+            }
+            else{
+              // console.log(i);
+
+                 //window.location.replace('/display');
+            document.getElementById("p"+i).appendChild(p);
+            //localStorage.setItem("goal"+i,target);
+
+
+
+        //  write()
+
+
+
+
+
+            document.getElementById("myInput").value="";
+
+
+             localStorage.setItem("i",i);
+            localStorage.setItem("goal"+i,target)
+            console.log("while storing..i="+i+"target="+target);
+            donee=1;
+            i=i+1;
+
+
+
+
+          }
+        }
+        else{
+          alert("Too many lists!!");
+        }
+
+      }
+
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
