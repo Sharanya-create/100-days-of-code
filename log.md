@@ -352,6 +352,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/Exceptionclass.c
 **Link(s) to my work**:https://github.com/Sharanya-create/100-days-of-code/tree/master/Bucketlist
 to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist.html ( valid only for a week)
 
+### Day 43: To-do list app date:28-6-2020
+
+**Today's Progress**: Completed a to-do list app for myself
+
+**Thoughts**: this app shares a similar UI as Bucket list app and provides 100 to-dos for eveyday which is more than enough for me.
+
+**Link(s) to work**:
+
 
 
  
