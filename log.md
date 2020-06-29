@@ -360,6 +360,15 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**:https://github.com/Sharanya-create/100-days-of-code/blob/master/Todo.html
 
+### Day 44: Bucket list app date:29-6-2020
+
+**Today's Progress**: completed backend and UI for the app, only little of styling remains.
+
+
+**thoughts**: after tomorrow once I complete styling of front end , I will continue with covid 19 tracker react app. 
+
+**Link(s) to work**: would upload after completion
+
 
 
  
