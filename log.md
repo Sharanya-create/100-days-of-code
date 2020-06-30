@@ -364,10 +364,19 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Today's Progress**: completed backend and UI for the app, only little of styling remains.
 
-
 **thoughts**: after tomorrow once I complete styling of front end , I will continue with covid 19 tracker react app. 
 
 **Link(s) to work**: would upload after completion
+
+### Day 45: Bucket list application date:30-6-2020
+
+**Today's progress**: Completed bucket list app for multiple users.
+
+**Thoughts**: For today i have completed bucket list app for multiple users, tested it 5 times(development testing) and it works fine. I am planning to host it on an instance on AWS so that i can make it available for user-testing for those who are interested. It has been approximately one and half month since i took the challenge of coding everyday. And i am happy that i have completed 7 mini-projects and began with two new, completed a course on python and multiple hanckerank challenges. Even completed a geeks for geeks challenge.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/FlaskApp
+
+
 
 
 
