@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Bucket List App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}" >
+    <script type=text/javascript src="{{ url_for('static', filename='js/jquery-3.1.1-min.js') }}"></script>
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <style>
+
+    input{
+      margin:0;
+      border:none;
+      border-radius:0;
+      width:75%;
+      padding:10px;
+    /*  float:left:*/
+      font-size:16px;
+      position: relative;
+      right:100px;
+    }
+    .addBtn{
+     padding:10px;
+      width:120px;
+      height:35px;
+      text-align:center;
+      background:#7ff695;
+      color:black;
+      float:left;
+      text-align:center;
+      font-size:16px;
+      cursor:pointer;
+      transition:0.3s;
+      border-radius:0;
+      font-size:16px;
+      position: relative;
+      left:870px;
+      top:-40px;
+    }
+    /*.addBtn:hover{
+      background-color: #bbb;
+    }*/
+#check1{
+  position:relative:
+  top:80px;
+  left:30px;
+
+}
+#a1{
+  position:relative:
+  top:80px;
+  left:190px;
+
+}
+#b1{
+  position:relative:
+  top:80px;
+  left:270px;
+
+}
+#a{
+  position:relative;
+  bottom:1230px;
+  right:20px;
+
+}
+#b{
+  position:relative;
+  bottom:1230px;
+  left:220px;
+}
+#delete,#view,#signoutt{
+  background: #7ff695;
+  color:black;
+}
+
+
+
+
+
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+
+                <button id="signoutt"><li role="presentation" ><a href="signout">Sign out</a></button>&ensp;
+                <button id="view"><li role="presentation" onclick="signin()" ><a href="/display">View your goals</a></button>&ensp;
+                <button id="delete"> <li role="presentation" onclick="deletefn()" >Delete all goals</button>
+
+
+
+
+                </ul>
+            </nav>
+
+        </div>
+
+        <div style="text-align:center" class="jumbotron">
+            <h1 style="text-align:center">Bucket List App</h1>
+            <form>
+              <input type="text" name="myInput" id="myInput" placeholder="Whats your new goal??">
+            </form>
+            <div style="text-align:center"><button  onclick="op()" class="addBtn">Add</button></div>
+            <p class="lead"></p>
+
+            </p>
+        </div>
+
+        <div class="row marketing" >
+            <div id="a1" class="col-lg-6">
+              <div id="check2"></div>
+
+
+
+            </div>
+
+
+
+            <div id="b1" class="col-lg-6">
+              <div id="check1"></div>
+            <!--  <p id="p6">----------------</p>
+              <p id="p7">----------------</p>
+              <p id="p8">-----------------</p>
+              <p id="p9">-----------------</p>
+              <p id="p10">---------------</p>-->
+
+
+
+            </div>
+
+        </div>
+        <div class="row marketing" style="width:600px">
+            <div id="a" class="col-lg-6">
+
+                {% for k in l %}
+                  {% if l|length>0 %}
+                   {% if loop.index is not divisibleby 2 %}
+                      <p> {{ k }} </p>
+
+                   {% endif %}
+
+                   {% endif %}
+                   {% else %}
+                      {% if deleted == 1 %}
+                   <script>alert("Deletion successful you have no goals listed!!");</script>
+                        {% endif %}
+
+
+                 {% endfor %}
+
+            </div>
+
+
+
+            <div id="b" class="col-lg-6">
+
+
+              {% for k in l %}
+                 {% if l|length>0 %}
+                 {% if loop.index is divisibleby 2 %}
+                    <p> {{ k }} </p>
+
+                 {% endif %}
+                 {% endif %}
+
+
+
+
+               {% endfor %}
+                <p style="color:white">{{ l.clear() }}</p>
+
+
+            </div>
+
+        </div>
+
+
+
+
+      <!--  <div id="bb"><button id="b" onclick="op()">+</button></div>-->
+
+        <footer class="footer">
+            <p>&copy; Sharanya S Bhat</p>
+        </footer>
+
+    </div>
+    <script>
+
+
+      console.log("{{ name }}");
+
+
+        /* if({{ signedin }}==1){
+        var name =  prompt("Enter your username");
+        if(name!=null){
+        var bday=  prompt("Enter your birth-date");
+        if(bday==null){
+          alert('please enter your bday and username this is needed to enhance user experience');
+          location.reload(true);
+        }
+        }
+        else{
+          alert('please enter your bday and username this is needed to enhance user experience');
+          location.reload(true);
+
+        }
+      }*/
+
+
+
+
+          var coderun=null;
+          var unchecked=0;
+          var checkid=null;
+           var i=-1;
+           var j;
+           var m;
+           var count=1;
+           var target=null;
+           var division1=document.getElementById('a');
+           var division2=document.getElementById('b');
+           var donee=0;
+           for(j=0;j<101;j++){
+             if(j%2==0){
+
+               var checkbox=document.createElement("input");
+               checkbox.setAttribute("type","checkbox");
+               checkbox.id=j;
+               console.log(checkbox.id);
+               checkbox.setAttribute("onclick","done()");
+               var p = document.createElement("p");
+               var div=document.getElementById("check1");
+               div.appendChild(checkbox);
+              // div.appendChild('&ensp;');
+               p.id="p"+j;
+               division1.appendChild(p);
+             }
+             else{
+               var checkbox=document.createElement("input");
+               checkbox.setAttribute("type","checkbox");
+               checkbox.id=j;
+               checkbox.setAttribute("onclick","done()");
+               var p = document.createElement("p");
+               var div=document.getElementById("check2");
+               div.appendChild(checkbox);
+              // div.appendChild('&ensp;');
+
+             //  var goal = document.createTextNode("\u00D7");
+             //  p.appendChild(goal);
+               p.id="p"+j;
+               division2.appendChild(p);
+             }
+           }
+
+           function deletefn(){
+              //console.log("error");
+            if({{deleted}} == 0){
+
+             var choice = prompt('Are you sure this would delete all yours goals and not recoverable.Type \"confirm\" to ensure');
+             if (choice!=null){
+               alert("Deletion Successfull");
+               localStorage.clear();
+               signin=0;
+
+               window.location.replace('/delete');
+
+           }
+         }
+           else{
+             alert("You have no goals listed!!");
+           }
+           }
+           function done(){
+             var checkbox;
+              signin=0;
+             for(var i=0;i<101;i++){
+               checkbox=document.getElementById(i);
+               //console.log(checkbox);
+               if(checkbox.checked==true){
+                 checkid=i;
+                 //console.log("nange marl");
+
+                 localStorage.setItem("{{name}}"+"checkid"+i,checkid);
+                 console.log("checkid:"+checkid);
+                 console.log("checkid-ls:"+localStorage.getItem("{{name}}"+"checkid"+i));
+                 //location.reload(true);
+
+               }
+               else{
+                 //console.log(i==localStorage.getItem("checkid"));
+                 for(m=0;m<101;m++){
+                   if(localStorage.getItem("{{name}}"+"checkid"+m)!=null){
+                 if(i==localStorage.getItem("{{name}}"+"checkid"+m)){
+                  // console.log("i am here");
+
+                   unchecked=1;
+                  // console.log("i:"+i);
+                   localStorage.removeItem("{{name}}"+"checkid"+m);
+                   localStorage.setItem("{{name}}"+"uncheckid"+m,i);
+                   console.log("uncheckid:"+i);
+                   console.log("unckeckid-ls:"+localStorage.getItem("{{name}}"+"uncheckid"+i));
+                   localStorage.setItem("unchecked",unchecked);
+                   //myfunction();
+                   //location.reload(true);
+                  // location.reload(true);
+                   //console.log(localStorage.setItem("unchecked",unchecked));
+                 }
+               }
+             }
+               }
+             }
+           }
+
+
+      /*function myfunction(){
+        for(var l=0;l<101;l++){
+          for(var k=0;k<101;k++){
+
+          if(localStorage.getItem("checkid"+k)==localStorage.getItem("uncheckid"+l)){
+            localStorage.setItem("checkid"+k,null);
+          }
+        }
+        }
+      }*/
+
+
+
+
+
+         window.addEventListener('load',(event)=>{
+              //start();
+
+              unchecked=localStorage.getItem("unchecked");
+              unchecked=parseInt(unchecked);
+            //  console.log(localStorage.getItem("unchecked",unchecked));
+            //localStorage.clear();
+             if(localStorage.getItem("i")!=null){
+             i= localStorage.getItem("i");
+             i=parseInt(i);
+             //console.log(i);
+
+             //var l=i;
+           }
+            /* count=localStorage.getItem("count");
+             count=parseInt(count);*/
+            // console.log(unchecked);
+
+
+
+
+          for(var i=0; i<101; i++){
+           if(localStorage.getItem("{{name}}"+"checkid"+i)!=null ){
+           var checkid=localStorage.getItem("{{name}}"+"checkid"+i);
+           console.log(checkid);
+           document.getElementById(checkid).checked=true;
+
+         }
+
+       }
+          for(var i=0;i<101;i++){
+           if(localStorage.getItem("{{name}}"+"uncheckid"+i)!=null){
+
+               localStorage.setItem("unchecked","0");
+            var checkid=localStorage.getItem("{{name}}"+"uncheckid"+i);
+            localStorage.removeItem("{{name}}"+"uncheckid"+i);
+             //console.log()
+             document.getElementById(checkid).checked=false;
+
+
+
+
+           }
+         }
+
+
+
+
+
+
+
+
+
+     });
+
+
+
+
+
+
+
+          //  console.log(i);
+          /*  if(count!=1){
+            for(var k=0; k<50; k++){
+              if(localStorage.getItem("goal"+k)!=null){
+
+          document.getElementById("p"+k).innerHTML=  localStorage.getItem("goal"+k);
+            console.log("while loading..k="+k+"target="+localStorage.getItem("goal"+k));
+          }*/
+        //  console.log(localStorage.getItem("goal"+k));
+
+
+
+
+
+
+
+
+        function op(){
+          if (donee==0){
+            i=i+1;
+          }
+             if(i<101){
+            //  var target=prompt("Enter your first bucket list","None");
+              target = document.getElementById("myInput").value;
+              write()
+             function write(){
+            $.ajax({
+              method:"POST",
+              url:'/handle',
+              data:$('form').serialize(),
+              success:function(msg){
+                console.log(msg);
+              }
+            });
+          }
+          var target1 = document.createTextNode(target);
+          //console.log(target);
+
+            var p= document.createElement("p");
+            p.appendChild(target1);
+            if(target==''){
+              alert("You must write something!!");
+            }
+            else{
+              // console.log(i);
+
+                 //window.location.replace('/display');
+            document.getElementById("p"+i).appendChild(p);
+
+
+
+        //  write()
+
+
+
+
+
+            document.getElementById("myInput").value="";
+
+
+             localStorage.setItem("i",i);
+            localStorage.setItem("goal"+i,target)
+            console.log("while storing..i="+i+"target="+target);
+            donee=1;
+            i=i+1;
+
+
+
+
+          }
+        }
+        else{
+          alert("Its better if you complete any one of your goals first!!");
+        }
+
+      }
+
+
+
+
+
+
+
+
+
+          /*  if(target!="None"){
+              count=count+1;
+              if(count==1){
+                    document.getElementById("p1").innerHTML=target;
+                     localStorage.setItem("count",count);
+                     localStorage.setItem("goal1",target);
+                  }
+
+                      else  if(count==2){
+                        document.getElementById("p2").innerHTML=target;
+                        localStorage.setItem("count",count);
+                        localStorage.setItem("goal2",target);
+                      }
+                      else if(count==3){
+                      document.getElementById("p3").innerHTML=target;
+                      localStorage.setItem("count",count);
+                      localStorage.setItem("goal3",target);
+                    }
+                    else  if(count==4){
+                    document.getElementById("p4").innerHTML=target;
+                    localStorage.setItem("count",count);
+                    localStorage.setItem("goal4",target);
+                  }
+                  else  if(count==5){
+                    document.getElementById("p5").innerHTML=target;
+                    localStorage.setItem("count",count);
+                    localStorage.setItem("goal5",target);
+                  }
+                  else if(count==6){
+                  document.getElementById("p6").innerHTML=target;
+                  localStorage.setItem("count",count);
+                  localStorage.setItem("goal6",target);
+                }
+                else if(count==7){
+                document.getElementById("p7").innerHTML=target;
+                localStorage.setItem("count",count);
+                localStorage.setItem("goal7",target);
+              }
+                else  if(count==8){
+                  document.getElementById("p8").innerHTML=target;
+                  localStorage.setItem("count",count);
+                  localStorage.setItem("goal8",target);
+                }
+                else if(count==9){
+                document.getElementById("p9").innerHTML=target;
+                localStorage.setItem("count",count);
+                localStorage.setItem("goal9",target);
+              }
+            else if(count==10){
+                document.getElementById("p10").innerHTML=target;
+                localStorage.setItem("count",count);
+                localStorage.setItem("goal10",target);
+              }
+             else{
+               window.alert("Too many Goals!! Its better if you complete any one first.");
+             }
+
+    }*/
+
+
+
+
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+
+</html>

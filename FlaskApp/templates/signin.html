@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bucket List App</title>
+  <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>-->
+    <link href="{{ url_for('static', filename='css/signup.css') }}" rel="stylesheet">
+
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.1.1-min.js') }}"></script>
+
+
+
+
+</head>
+<body>
+
+
+
+<div class="jumbotron">
+    <h1>Bucket List App</h1>
+      <form class="form-signin" action="signin.js">
+      <label for="inputName" class="sr-only">UserName</label>
+      <input type="name" name="inputName" id="inputName" class="form-control" placeholder="YourName" required autofocus>
+
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" name="inputPassword" id="inputPassword" class="form-control" placeholder="Password" required>
+
+        <button id="btnSignIn" class="btn btn-lg btn-primary btn-block" type="button" class="active" >Sign In</button>
+        <p id="p1"></p>
+      </form>
+      </div>
+
+
+
+    <footer class="footer">
+      <p>&copy; Sharanya S Bhat</p>
+  </footer>
+
+  <script>
+  $(function() {
+      $('#btnSignIn').click(function() {
+        //  var created=0;
+          $.ajax({
+              url: '/signIn',
+              data: $('form').serialize(),
+              type: 'POST',
+              success: function(response) {
+                //  alert("Successfully signed up!Lets sign in now!");
+                    //var created=1;
+                  //document.getElementById("resultarea")=signin.html;
+                //$('body').append(response)
+                //window.location.replace('home.html')
+              //  console.log(response);
+                console.log(response);
+               if (response == "\"Invalid Username/password\""){
+
+                      $("#p1").html(response);
+
+                }
+                else{
+                  window.location.assign('/');
+                }
+
+
+
+
+
+
+
+            },
+              error: function(error) {
+                  $("#p1").html(error);
+
+              }
+          });
+
+      });
+  });
+</script>
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>
