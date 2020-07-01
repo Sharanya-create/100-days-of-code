@@ -376,6 +376,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/tree/master/FlaskApp
 
+### Day 46: Hackerrank and code chef challenges date:1-7-2020
+
+**Today's Progress**: completed a python3 challenge on hackerrank and sharing is caring challenge on codechef. 
+
+**Thoughts**: began with codechef today and it gave me a brief idea on competitive coding. I always thought that code chef is not my cup of tea. But after I was able to immediately apply the knowledge and logic and solve a problem with only 65% accuracy, it increased my confidence to a greater extent.
+
+**Link(s) to work**: the solutions are available on net hence I am not again open sourcing it.
+
 
 
 
