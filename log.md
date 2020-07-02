@@ -384,6 +384,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: the solutions are available on net hence I am not again open sourcing it.
 
+### Day 47: Codechef challenge date:2-7-2020
+
+**Today's Progress**: completed sasta operation on tuple challenge on codechef
+
+**Thoughts**: I am getting addicted to coding on codechef
+
+**Link(s) to work**: online, solutions are available and even people may just copy paste my code, codechef is more special than hackerrank and is more difficult,as well as it gives competitive coding experience,open sourcing it, leads to cheating by people, so I have decided not to open source any challenge on codechef or hackerrank. As well as all submissions are available for the challenge, hence I won't be open sourcing my solution but if possible I will write articles explaining my solution,with a note that will make cheaters realize, cheating isn't useful at all.
+
 
 
 
