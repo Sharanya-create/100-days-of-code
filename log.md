@@ -392,7 +392,13 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: online, solutions are available and even people may just copy paste my code, codechef is more special than hackerrank and is more difficult,as well as it gives competitive coding experience,open sourcing it, leads to cheating by people, so I have decided not to open source any challenge on codechef or hackerrank. As well as all submissions are available for the challenge, hence I won't be open sourcing my solution but if possible I will write articles explaining my solution,with a note that will make cheaters realize, cheating isn't useful at all.
 
+### Day 48: Hackerrank Challenges date:3-7-2020
 
+**Today's Progress**: Completed two challenges of python in hackerrank and earned 3rd star.
+
+**Thoughts**: as mentioned in yesterday's log, I won't be uploading my solutions for hackerrank or codechef as they are already available on hackerrank/codechef all submissions and as they are challenges, agreeing to my mentors suggestions I wouldn't upload it as they can be used to cheat.
+
+**Link(s) to work**: ----
 
 
 
