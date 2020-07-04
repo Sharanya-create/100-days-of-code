@@ -400,6 +400,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: ----
 
+### Day 49: Covid 19 tracker react application date:4-7-2020
+
+**Today's Progress**: coded on bar chart for 1hr
+
+**Thoughts**: I have to now finish bar chart, country picker, get data for countries and do final styling to complete the app
+
+**Link(s) to work**: would upload after completion
+
 
 
  
