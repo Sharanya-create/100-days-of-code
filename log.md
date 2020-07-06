@@ -416,6 +416,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: would upload after completion
 
+### Day 51: My profile date:6-7-2020
+
+**Today's Progress**: Started coding for my profile.
+
+**Thoughts**: I started a building my profile on web today as it's very helpful during placements or may be in places were we can't give our resumes. I am planing to host it on Google cloud. With help of a template available online, I started building my profile by altering the template and coding on it as required. 
+
+**Link(s) to work**: would upload after completion
+
 
 
  
