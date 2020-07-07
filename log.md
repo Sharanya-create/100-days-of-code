@@ -424,6 +424,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: would upload after completion
 
+### Day 52: My profile date:7-7-2020
+
+**Today's Progress**: Coded on the template for my profile.
+
+**Thoughts**: I chose a different template for me now than yesterday's as I felt this requires more code changes and even gives a classic look.
+
+**Link(s) to work**: would upload after I launch my portfolio website
+
 
 
  
