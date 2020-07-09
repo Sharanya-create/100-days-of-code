@@ -440,6 +440,13 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: would upload after completion 
 
+### Day 54: My profile date:9-7-2020
+
+**Today's Progress**:Coded on about me page of the template.
+
+**Thoughts**: now only the project pages are remaining to be altered and coded as required.
+
+**Link(s) to work**: would upload after completion
  
  
  
