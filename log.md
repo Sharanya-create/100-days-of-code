@@ -447,6 +447,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 **Thoughts**: now only the project pages are remaining to be altered and coded as required.
 
 **Link(s) to work**: would upload after completion
+
+### Day 55: Code chef challenges date:10-7-2020
+
+**Today's Progress**: Coded 2 challenges on codechef and got 200 points.
+
+**Thoughts**: chef and strings challenge and chef and card game challenge are the challenges that I solved today and were very interesting, I am now able to right even more good quality code than before.
+
+**Link(s) to work**--
  
  
  
