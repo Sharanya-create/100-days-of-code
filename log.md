@@ -456,13 +456,22 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**--
 
-### Day 56: My profile date: 10-7-2020
+### Day 56: My profile date: 11-7-2020
 
 **Today's Progress**: coded on my profile and completed about me alteration and coding on the template.
 
 **Thoughts**: now just half of project pages coding and alteration remains.
 
 **Link(s) to work**: would upload after completion
+
+### Day 57: My profile date: 12-7-2020
+
+**Today's Progress**: coded on my profile and completed about me alteration and even one project page completely. Hosted it as github page for testing purpose.
+
+**Thoughts**: nearly 5 more project pages to complete
+
+**Link(s) to work**: would upload after completion
+
  
  
  
