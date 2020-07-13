@@ -472,6 +472,16 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: would upload after completion
 
+### Day 58: My profile date: 13-7-2020
+
+**Today's Progress**: coded on my profile template and completed one more project page completely,pushed it on GitHub. 
+
+**Thoughts**: nearly 4 more project pages to complete.
+
+**Link(s) to work**: would upload after completion
+
+ 
+
  
  
  
