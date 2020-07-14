@@ -480,6 +480,15 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 
 **Link(s) to work**: would upload after completion
 
+### Day 59: Coursera assignment and Number Luck game date:14-7-2020
+
+**Today's Progress**: Coded on a coursera assignment on ML to detect house pricing for given number of bedrooms using tensorflow-keras and numpy. Along with this i made a game program named as number luck game using random library of python.
+
+**Thoughts**: I always wanted to learn ML and AI and now feeling great after writing a program on ML using python tensorflow and numpy.
+
+**Link(s) to work**: link to number luck game https://github.com/Sharanya-create/100-days-of-code/blob/master/Number%20luck%20game.py 
+I wont be uploading answer/codebase for assignment as it may lead to cheating.
+
  
 
  
