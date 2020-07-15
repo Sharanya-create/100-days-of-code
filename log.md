@@ -489,6 +489,14 @@ to test the app:  https://bucketlist-sharu.s3.us-east-2.amazonaws.com/Bucketlist
 **Link(s) to work**: link to number luck game https://github.com/Sharanya-create/100-days-of-code/blob/master/Number%20luck%20game.py 
 I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
+### Day 60: My profile and coursera assignment date:15-7-2020
+
+**Today's Progress**: completed my coding profile template and now is perfect and ready as well as completed a Mysql assignment on Coursera using sqllite.
+
+**Thoughts**:My current course on Coursera is on python for using database and I completed a programming assignment of basics of SQL. I even coded on the template for my profile, completed all project pages and pushed it on GitHub, now my website is ready hosted as GitHub page. The template I downloaded was not suiting all the screens , I corrected that using css and made more project pages using html and css. It feels cool to look at my website now.
+
+**Link(s) to work**:https://sharanya-create.github.io
+
  
 
  
