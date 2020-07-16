@@ -497,6 +497,14 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**:https://sharanya-create.github.io
 
+### Day 61: Covid 19 tracker react application
+
+**Today's Progress**: proceeded with coding on covid 19 tracker react application.
+
+**Thoughts**: coded for an hour on react app. My fever didn't curb my passion for coding. Instead when I code my sickness reduces and I feel more confident and energetic.
+
+**Link(s) to work**would upload after completion
+
  
 
  
