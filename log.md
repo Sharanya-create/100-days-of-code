@@ -497,13 +497,21 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**:https://sharanya-create.github.io
 
-### Day 61: Covid 19 tracker react application
+### Day 61: Covid 19 tracker react application date:16-7-2020
 
 **Today's Progress**: proceeded with coding on covid 19 tracker react application.
 
 **Thoughts**: coded for an hour on react app. My fever didn't curb my passion for coding. Instead when I code my sickness reduces and I feel more confident and energetic.
 
-**Link(s) to work**would upload after completion
+**Link(s) to work**:would upload after completion
+
+### Day 62: My profile date:17-7-2020
+
+**Today's Progress**: Began with enhancing my profile as per feedbacks.
+
+**Thoughts**: one of my friends suggested me to give some more add-ons to the template and I started implementing it as I liked the suggestion. The example templates that my friend shared were similar to mine but had some more animations. I added some Progress bars to define my skills and began with the typing effect to my brief heading using JavaScript. I also taught JS to my younger brother and revised my knowledge.
+
+**Link(s) to work**: would upload after all changes are incorporated.
 
  
 
