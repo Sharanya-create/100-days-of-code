@@ -527,7 +527,7 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Thoughts**:this course is really very nice, along with revising my concepts it also taught me new things in html and css. It had interesting basic programming exercises on html and css.
 
-**Link(s) to work**: as it's a course on progress not possible to provide link.
+**Link(s) to work**: as it's a course in progress not possible to provide link.
 
 
 
