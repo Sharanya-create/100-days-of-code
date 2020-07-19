@@ -513,7 +513,15 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: would upload after all changes are incorporated.
 
- 
+### Day 63: HTML and CSS I progate date:18-7-2020
+
+**Today's Progress**: completed 73% of coding course from progate on html and css
+
+**Thoughts**:this course is really very nice, along with revising my concepts it also taught me new things in html and css. It had interesting basic programming exercises on html and css.
+
+**Link(s) to work**: as it's a course on progress not possible to provide link.
+
+
 
  
  
