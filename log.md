@@ -513,7 +513,15 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: would upload after all changes are incorporated.
 
-### Day 63: HTML and CSS I progate date:18-7-2020
+### Day 63:My profile date 18-7-2020
+
+**Today's Progress**: Completed the changes on my portfolio website.
+
+**Thoughts**: today (19-7-2020) I found that I have missed the log for 18th and I myself was surprised about it but anyways I am now writing about 18th that I have successfully incorporated all the different add one and animations to my portfolio. I have added a typewriter effect using js, an option to view my resume, and progress bars for skills.
+
+**Link(s) to work**: sharanya-create.github.io
+
+### Day 64: HTML and CSS I progate date:19-7-2020
 
 **Today's Progress**: completed 73% of coding course from progate on html and css
 
