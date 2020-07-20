@@ -529,9 +529,15 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: as it's a course in progress not possible to provide link.
 
+### Day 65: Covid 19 tracker react app and JS ES6 course through progate date:20-7-2020
 
+**Today's Progress**: completed covid 19 tracker react app and a course on js through Progate.
 
- 
+**Thoughts**:Today was a great day with 3 20s in the date. I completed my react covid tracker and a course that revised my he concepts. I used JavaScript Mastery tutorial to build the covid tracker app and built it with little bit changes in styles like height width, padding and as such. I  got to learn a lot about Reactjs and material UI through this mini project. Again thanks to JavaScript Mastery.
+
+**Link(s) to Work**:
+
+ https://github.com/Sharanya-create/covid_tracker.git
  
  
 
