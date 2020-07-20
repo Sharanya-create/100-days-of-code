@@ -533,7 +533,7 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Today's Progress**: completed covid 19 tracker react app and a course on js through Progate.
 
-**Thoughts**:Today was a great day with 3 20s in the date. I completed my react covid tracker and a course that revised my he concepts. I used JavaScript Mastery tutorial to build the covid tracker app and built it with little bit changes in styles like height width, padding and as such. I  got to learn a lot about Reactjs and material UI through this mini project. Again thanks to JavaScript Mastery.
+**Thoughts**:Today was a great day with 3 20s in the date. I completed my react covid tracker and a course that revised my js concepts. I used JavaScript Mastery tutorial to build the covid tracker app and built it with little bit changes in styles like height width, padding and as such. I  got to learn a lot about Reactjs and material UI through this mini project. Again thanks to JavaScript Mastery.
 
 **Link(s) to Work**:
 
