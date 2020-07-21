@@ -538,6 +538,14 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 **Link(s) to Work**:
 
  https://github.com/Sharanya-create/covid_tracker.git
+
+### Day 66: Coursera programming assignment date:21-7-2020
+
+**Today's Progress**: Wrote a python code that interacts with sqllite database and counts the domain names in the email addresses.
+
+**Thoughts**: Today's programming assignment was very easy but I still ended up getting confused, by missing a simple line I wasn't getting output. But then I figured it out and solved. At first I couldn't understand the question itself but then I made it out and yes I have realized that I need to stay calm and fresh inorder to code perfectly. Even after building an entire python application that interacts with database , I couldn't solve a simple problem statement and reason was that I was getting anxious and my eyes were paining badly. Hence today I realized how important is health of mind for coding. But though, my headache could never put me into such confusions..my eye ache and anxiety managed. Hence I had a walk around, took some fresh air and then could figure out my mistake and solved it.
+
+**Link(s) to work**: --
  
  
 
