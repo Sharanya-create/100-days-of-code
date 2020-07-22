@@ -546,6 +546,15 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 **Thoughts**: Today's programming assignment was very easy but I still ended up getting confused, by missing a simple line I wasn't getting output. But then I figured it out and solved. At first I couldn't understand the question itself but then I made it out and yes I have realized that I need to stay calm and fresh inorder to code perfectly. Even after building an entire python application that interacts with database , I couldn't solve a simple problem statement and reason was that I was getting anxious and my eyes were paining badly. Hence today I realized how important is health of mind for coding. But though, my headache could never put me into such confusions..my eye ache and anxiety managed. Hence I had a walk around, took some fresh air and then could figure out my mistake and solved it.
 
 **Link(s) to work**: --
+
+### Day 67: Hackerrank Challenge and About me website date:22-7-2020
+
+**Today's Progress**: Completed tuples challenge on hackerrank and taught my brother some CSS with that we completed his about me website some 90% now only media queries remain. By teaching him I revised my concepts on html and css.
+
+**Thoughts**: It was a great time coding today.
+
+**Link(s) to work**cannot upload hackerrank challenge solution as it may lead to cheating but would surely upload my brother's website ones it's fully completed.
+
  
  
 
