@@ -555,7 +555,15 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**cannot upload hackerrank challenge solution as it may lead to cheating but would surely upload my brother's website ones it's fully completed.
 
+### Day 68: PHP coding date:23-7-2020
+
+**Today's Progress**: Revised my concepts on PHP.
+
+**Thoughts**: I volunteered for web development for a program organized by my college and as suggested by project incharge I worked on my PHP coding skills.
+
+**Link(s) to work**:--
  
+
  
 
 
