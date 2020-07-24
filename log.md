@@ -563,7 +563,13 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**:--
  
+### Day 69: PHP coding date:24-7-2020
 
+**Today's Progress**:revised concepts of PHP as like loops and conditional statements.
+
+**Thoughts**: as for yesterday I had began revising PHP basics and had completed variables, operations, operators,input-output and functions on PHP for today I went through the above mentioned.
+
+**Link(s) to work**:--
  
 
 
