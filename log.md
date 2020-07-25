@@ -571,6 +571,12 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**:--
  
+### Day 70: Cakephp and topological sorting date:25-7-2020
 
+**Today's Progress**: learnt to code to make cakephp-mysql connection and wrote a code implementing topological sorting.
+
+**Thoughts**: topological sorting is a widely known concept in sorting and as data structures, algorithms, problem solving techniques are important, I decided to implement a solution to topological sorting that follows decrease and conquer technique. By using structures and arrays as data structure.
+
+**Link(s) to work**:
 
 
