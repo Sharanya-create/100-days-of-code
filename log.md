@@ -575,8 +575,8 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Today's Progress**: learnt to code to make cakephp-mysql connection and wrote a code implementing topological sorting.
 
-**Thoughts**: topological sorting is a widely known concept in sorting and as data structures, algorithms, problem solving techniques are important, I decided to implement a solution to topological sorting that follows decrease and conquer technique. By using structures and arrays as data structure.
+**Thoughts**: topological sorting is a widely known concept in sorting and as data structures, algorithms, problem solving techniques are very important, I decided to implement a solution to topological sorting that follows decrease and conquer technique. By using structures and arrays as data structure.
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/toposorting.cpp
 
 
