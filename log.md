@@ -579,4 +579,11 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/toposorting.cpp
 
+### Day 71: PHP and cakephp date:26-7-2020
+
+**Today's Progress**: learnt and coded on some oop concepts of PHP as well as built controller and views on cakephp
+
+**Thoughts**: OOp concepts were new for me in PHP and I enjoyed learning it.
+
+**Link(s) to work**: --
 
