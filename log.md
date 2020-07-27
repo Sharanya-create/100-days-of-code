@@ -587,3 +587,13 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: --
 
+### Day 72: PHP coding date:27-7-2020
+
+**Today's Progress**:revised my concepts of PHP form validation by re-implementing login,logout form validation and database connection, even I revised my CSS concepts used for responsive web development by helping my brother code for his about me website and for today we completed it.
+
+**Thoughts**: I had used PHP form validation in one of my projects and I re-implemented it today for revising. Would soon host my brother's website on GitHub.
+
+**Link(s) to work**: --
+
+
+
