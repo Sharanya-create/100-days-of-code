@@ -595,5 +595,12 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: --
 
+### Day 73: Coursera assignment date:28-7-2020
+
+**Today's Progress**: completed a coding assignment on Coursera for python and revised my python-mysql concepts as well as python XML parsing concepts.
+
+**Thoughts**: it was great time coding in python
+
+**Link(s) to work**:--
 
 
