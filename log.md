@@ -603,4 +603,12 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**:--
 
+### Day 74:Interview coding question date:29-7-2020
+
+**Todays progress**:solved an interview coding question on counting no.of bit manipulation required.
+
+**thoughts**:The length of array in the solution can be written directly or can be even passed from the function but i have palyed a little with c++ library functions inorder to revise my concepts and also this helped me in knowing some tricky & general concepts of c++ functions usage.
+
+**Link(s) to work**:
+
 
