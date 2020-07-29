@@ -26,13 +26,13 @@ int main(){
 		d=d/2;
 		d1[k++]=rem;
 	}
-	a1_len=sizeof(a1)/sizeof(a1[0]);
+	a1_len=sizeof(a1)/sizeof(a1[0]); /*onlu used to see what is the result of sizeof()*/
 	b1_len=sizeof(b1)/sizeof(b1[0]);
 	c1_len=sizeof(c1)/sizeof(c1[0]);
 	d1_len=sizeof(d1)/sizeof(d1[0]);
 	
 	size=max(a1_len,b1_len);
-	size=max(size,c1_len);
+	size=max(size,c1_len); /*only used to see how max function works on same numbers these can be changed by returning i,j and k from the functions and finding their max*/
 	size=max(size,d1_len);
 	
 	
