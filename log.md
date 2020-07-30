@@ -611,4 +611,12 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/bitflips.cpp
 
+### Day 75:To-do list app date:30-7-2020
+
+**Today's progress**:added deletion function to my to-do app which i had built previously
+
+**Thoughts**:initially i got many errors but then later i managed it. The only intention to build this was to learn revise concepts of js and hrml,css as well as a to-do app without delete for each would'nt be good enough hence i edited it with delete function for each list.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/todolist-edit.html
+
 
