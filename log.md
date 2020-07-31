@@ -619,4 +619,10 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/todolist-edit.html
 
+### Day 76: Python coding date:31-7-2020
 
+**Today's Progress**: revised basic concepts of python3 like branching, loops and such with data structures and wrote some simple programs on it.
+
+**Thoughts**: I revised python3 as in case I do not forget it, I preferred to code on it so that it gets fixed in mind.
+
+**Link(s) to work**:--
