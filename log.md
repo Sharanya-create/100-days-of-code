@@ -626,3 +626,12 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 **Thoughts**: I revised python3 as in case I do not forget it, I preferred to code on it so that it gets fixed in mind.
 
 **Link(s) to work**:--
+
+### Day 77: Interview question coding date:1-8-2020
+
+**Today's progress**:coded on two different interview questions by coding club and one from linkedin.
+
+**Thoughts**: due to practicing coding often these days i am feeling very easy to code on different types of coding questions and am able to think perfectly well.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch2.cpp
+https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
