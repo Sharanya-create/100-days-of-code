@@ -635,3 +635,11 @@ I wont be uploading answer/codebase for assignment as it may lead to cheating.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch2.cpp
 https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
+
+### Day 78: Photography website date:2-8-2020
+
+**Today's Progress**: coded on a responsive website for a photographer 
+
+**Thoughts**: the client project that we few students have volunteered in our college for the purpose of which I was learning cakephp, now finally the exact project started and we got to code a website for a photographer. 
+
+**Link(s) to work**: cannot opensource as it's for a company
