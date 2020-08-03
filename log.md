@@ -643,3 +643,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: the client project that we few students have volunteered in our college for the purpose of which I was learning cakephp, now finally the exact project started and we got to code a website for a photographer. 
 
 **Link(s) to work**: cannot opensource as it's for a company
+
+### Day 79: Photography website date:3-8-2020
+
+**Today's Progress**: continued coding on a responsive photography website.
+
+**Thoughts**: index page almost done with highly responsive images and texts.. 
+
+**Link(s) to work**: cannot opensource as it's for a company
