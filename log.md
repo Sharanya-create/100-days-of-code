@@ -651,3 +651,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: index page almost done with highly responsive images and texts.. 
 
 **Link(s) to work**: cannot opensource as it's for a company
+
+### Day 80: Photography website date:4-8-2020
+
+**Today's Progress**: continued coding on a responsive photography website.
+
+**Thoughts**: added a responsive side popping menu bar
+
+**Link(s) to work**: cannot opensource as it's for a company
