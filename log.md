@@ -667,3 +667,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**:I new few parts react here and there due to my initial beginner level covid tracker application, this caught more of my interest in react as well as it's going to be important for my career as a full stack developer and hence I began to learn it's concepts in detail today through a you tube tutorial
 
 **Link(s) to work**: --
+
+### Day 82: Reactjs date:6-8-2020
+
+**Today's Progress**: continued learning react concepts
+
+**Thoughts**: learning react and coding some basics of it was real fun
+
+**Link(s) to work**: --
