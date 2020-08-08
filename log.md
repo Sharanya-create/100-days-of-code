@@ -675,3 +675,19 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: learning react and coding some basics of it was real fun
 
 **Link(s) to work**: --
+
+### Day 83: Reactjs date:7-8-2020
+
+**Today's Progress**: continued learning react concepts
+
+**Thoughts**: learnt some concepts of react from a udemy course, it was a busy day with no time at all, hence I couldn't write the log on 7th and decided to write it today along with 8th log.
+
+**Link(s) to work**: --
+
+### Day 84: Reactjs date:8-8-2020
+
+**Today's Progress**: learnt some more react concepts
+
+**Thoughts**: I had got a free course in udemy from geeksgod which is really awesome for react beginners.
+
+**Link(s) to work**: --
