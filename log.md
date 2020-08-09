@@ -691,3 +691,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: I had got a free course in udemy from geeksgod which is really awesome for react beginners.
 
 **Link(s) to work**: --
+
+### Day 85: Coursera coding assignment date:9-8-2020
+
+**Today's Progress**: Completed 2 coding assignments on Coursera course- using databases with python and got certified.
+
+**Thoughts**: Coursera was and will be always my first teachers in python which thought me python3 coding even before I learnt it in my academics.
+
+**Link(s) to work**:--
