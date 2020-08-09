@@ -698,4 +698,4 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 
 **Thoughts**: Coursera was and will be always my first teachers in python which thought me python3 coding even before I learnt it in my academics.
 
-**Link(s) to work**:--
+**Link(s) to work**: link to my LinkedIn activity, certificate post which even has verifiable link. https://www.linkedin.com/posts/sharanya-bhat-aa38a0180_100daysofcode-coursera-coding-activity-6698227157191274496-i_uK
