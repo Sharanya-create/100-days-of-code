@@ -699,3 +699,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: Coursera was and will be always my first teachers in python which thought me python3 coding even before I learnt it in my academics.
 
 **Link(s) to work**: link to my LinkedIn activity, certificate post which even has verifiable link. https://www.linkedin.com/posts/sharanya-bhat-aa38a0180_100daysofcode-coursera-coding-activity-6698227157191274496-i_uK
+
+### Day 86: Reactjs date:10-8-2020
+
+**Today's Progress**: learnt some more react concepts, folder structure and execution flow of it.
+
+**Thoughts**: following a you tube tutorial as I felt the udemy course was awful after the first two vedios. Though I completed it I didn't like it at all. 
+
+**Link(s) to work**: --
