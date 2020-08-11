@@ -707,3 +707,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Thoughts**: following a you tube tutorial as I felt the udemy course was awful after the first two vedios. Though I completed it I didn't like it at all. 
 
 **Link(s) to work**: --
+
+### Day 87: Reactjs date:11-8-2020
+
+**Today's Progress**: learnt some more react concepts,like stateful and stateless components. 
+
+**Thoughts**: learnt basic concepts of react components like app.js is a component with other components that can be nested in it, class component must have render method returning html, functional component doesn't have render method but returns html.
+
+**Link(s) to work**: --
+
+
