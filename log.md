@@ -716,4 +716,12 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 
 **Link(s) to work**: --
 
+### Day 88: python programming date:12-8-2020
+
+**Today's Progress**: revised some python concepts and done basic coding
+
+**Thoughts**: it was a great time coding with python, it refreshed my knowledge
+
+**Link(s) to work**: --
+
 
