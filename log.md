@@ -724,4 +724,16 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 
 **Link(s) to work**: --
 
+### Day 89: Interview coding questions from coding club date:13-8-2020
+
+**Today's progress**: Completed two coding questions within a time limit of one hour
+
+**Thoughts**: I understood interpretting, handling boundary cases and writing a clean code within an hour limit by doing this self given challenge.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/disstring.py  
+https://github.com/Sharanya-create/100-days-of-code/blob/master/freqval.cpp
+
+
+
+
 
