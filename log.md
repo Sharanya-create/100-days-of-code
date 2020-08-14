@@ -733,6 +733,15 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/summatch1.cpp
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/disstring.py  
 https://github.com/Sharanya-create/100-days-of-code/blob/master/freqval.cpp
 
+### Day 90: Interview coding questions from coding club date:14-8-2020
+
+**Today's progress**: Completed two coding questions within a time limit of one hour
+
+**Thoughts**: I was able to solve today's coding coding questions within half an hour and hence i find a lot of improvemment in my coding skills, practice makes perfect.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/strpalin.cpp  
+https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
+
 
 
 
