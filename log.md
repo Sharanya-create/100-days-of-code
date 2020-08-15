@@ -742,7 +742,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/freqval.cpp
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/strpalin.cpp  
 https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
+### Day 91: Reactjs date:15-8-2020
 
+**Today's Progress**: learnt about functional component of react.
+
+**Thoughts**: react components have been interesting me since I developed covid tracker, I had understood a little bit about functional components at that point of time, as I had used it. Today I learnt it in a bit more greater detail.
+
+**Link(s) to work**: --
 
 
 
