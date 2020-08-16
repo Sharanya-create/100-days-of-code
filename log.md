@@ -750,5 +750,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 92: coded in Google Coding Challenge date:16-8-2020
+
+**Today's Progress**: learnt the various types of questions that would appear in Google coding interviews and placement rounds, learnt about time management while coding.
+
+**Thoughts**: this coding and was part of an internship selection round and is just a small part of evaluation process. Coding challenge had two questions with a time limit of 60 mins. The most important thing I learnt is, never waste time on question that I didn't understand. First question I had not at all understood , I took 45 mins on it,but then I started coding on second , it was easy though I didn't complete it, I understood that I could have cracked it if I had initially not wasted my time on what I have not understood. 
+
+**Link(s) to work**: --
+
 
 
