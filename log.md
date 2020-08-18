@@ -766,3 +766,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 94: Data Structures date:18-8-2020
+
+**Today's Progress**: revised array concepts of data structures
+
+**Thoughts**: Data Structures being the important part for placements, I decided to study that and began with it today.
+
+**Link(s) to work**: --
+
