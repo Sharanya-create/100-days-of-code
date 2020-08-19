@@ -774,3 +774,14 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 94: Data Structures & algorithms date:19-8-2020
+
+**Today's Progress**: revised array concepts of data structures by solving a geeksforgeeks question on arrays, that taught me two pointer technique.
+
+**Thoughts**: Data Structures, coding and algorithms being the important part for placements, I practiced it and even saw the various usecases for 2 pointer technique algorithm.
+
+**Link(s) to work**: as mentioned earlier I won't be pushing my solutions for hackerrank, geeksforgeeks, codechef and so on platforms here as it may lead to cheating.
+
+
+
+
