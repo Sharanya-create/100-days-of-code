@@ -782,6 +782,13 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: as mentioned earlier I won't be pushing my solutions for hackerrank, geeksforgeeks, codechef and so on platforms here as it may lead to cheating.
 
+### Day 95: Data Structure coding date:20-8-2020
+
+**Today's progress**: coded on an interview question from arrays
+
+**Thoughts**: coded as solution for reversebit question, where one needs to output the number obtained by reversing the bits of input non negative number.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/reversebits.cpp
 
 
 
