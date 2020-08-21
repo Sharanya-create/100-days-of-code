@@ -786,9 +786,17 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Today's progress**: coded on an interview question from arrays
 
-**Thoughts**: coded as solution for reversebit question, where one needs to output the number obtained by reversing the bits of input non negative number.
+**Thoughts**: coded a solution for reversebit question, where one needs to output the number obtained by reversing the bits of input non negative number.
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/reversebits.cpp
+
+### Day 96: Data Structure coding date:21-8-2020
+
+**Today's progress**: coded on an interview question from arrays
+
+**Thoughts**: coded a solution for longest-subarray question, where one needs to output the length of longest contiguous subarray where every element is the largest, in the subarray thus formed.
+
+**Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/longestsubarray.cpp
 
 
 
