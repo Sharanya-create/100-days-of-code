@@ -798,5 +798,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: https://github.com/Sharanya-create/100-days-of-code/blob/master/longestsubarray.cpp
 
+### Day 97: Data Structures date:22-8-2020
 
+**Today's Progress**: revised structures and arrays concept.
+
+**Thoughts**: recalled the above mentioned data structures' concepts as it's important for placements.
+
+**Link(s) to work**: --
 
