@@ -806,3 +806,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 98: Data Structures date:23-8-2020
+
+**Today's Progress**: revised stack-infix,prefix and postfix expression concepts 
+
+**Thoughts**: these questions are commonly asked by interviewers and hence I prepared for them
+
+**Link(s) to work**: --
+
