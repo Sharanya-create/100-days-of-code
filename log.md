@@ -814,3 +814,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 99: Python concepts and Hackerrank coding date:24-8-2020
+
+**Today's Progress**: completed last course of python for everybody on Coursera and coded on an interview question, initially felt difficult and didn't pass all rest cases but now I have now made my own algorithm for it. Question was on array left sort. 
+
+**Thoughts**: I have decided to code every possible question and learn a new concept or algorithm or end up revising already known ones. I will try my level best to crack coding round of placement.
+
+**Link(s) to work**: --
+
