@@ -822,3 +822,11 @@ https://github.com/Sharanya-create/100-days-of-code/blob/master/xorarr.cpp
 
 **Link(s) to work**: --
 
+### Day 100: Hackerrank coding date:25-4-2020
+
+**Today's Progress**: completed my 100 days coding challenge with a Hackerrank coding question on new year chaos, an interesting algorithm behind it.
+
+**Thoughts**: 100 days of coding was really a great journey filled with knowledge, learnt a new programming language python, worked on various projects and also started coding for placements. End of the day was so busy that I have remembered about writing log today on 27th and all I did on that day was coding and learn new algorithms and revising data structures.
+
+**Link(s) to work**: --
+
